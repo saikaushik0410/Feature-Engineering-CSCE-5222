@@ -1,0 +1,10 @@
+Waymo's Driver self-driving AI is seeing more clearly than ever
+Enlarge Image Waymo
+
+Waymo has been at the cutting edge of autonomous vehicle development for a while now. It's been operating a publicly available driverless shuttle service in Arizona for a couple of years, and it expanded its testing programs all over, including to San Francisco.
+
+If you've never driven in San Francisco, it's not a fun place to try and get around in a car. The streets are often narrow, the intersections can be weird, pedestrians are everywhere and all the elevation changes can make visibility a nightmare. In short, it's a great place to test the efficacy of a self-driving AI like Waymo Driver. Now, in a blog post published on Thursday, we're getting a look at just what the Waymo Driver sees as it moves around the city.
+
+Enlarge Image Waymo
+
+A big reason that Waymo has been so successful with its testing programs is just the sheer amount of miles it's driven (20 million on real roads!), both in the real world and in simulation. This has led to a really well-trained AI with a deep well of situations it can draw on to make split-second decisions in a place like San Francisco without relying on human intervention.

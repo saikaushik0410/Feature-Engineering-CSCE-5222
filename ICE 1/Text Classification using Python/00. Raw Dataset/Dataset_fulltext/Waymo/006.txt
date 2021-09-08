@@ -1,0 +1,13 @@
+Waymo will stop selling its self-driving LiDAR sensors to other companies
+Just months after a CEO shakeup, Waymo is officially halting sales of its custom sensors to third parties. The move sees the Alphabet-owned self-driving company unwinding a business operation just two years into its lifespan. Waymo confirmed the decision to Reuters, adding that it's now focusing on deploying its Waymo Driver tech across its Waymo One ride-hailing and Waymo Via trucking divisions.
+
+The decision comes in the wake of long-term CEO John Krafcik's departure, who was replaced at the helm by Waymo execs Tekedra Mawakana and Dmitri Dolgov. Some suggested that Krafcik's deliberate approach was hindering the company's push toward commercialization. Earlier this month, Waymo hit a milestone of 20 billion miles driven in simulations, with 20 million on public roads. Just days ago, it brought its robotaxis to vetted riders in San Francisco.
+
+Waymo began selling LiDARs — the tech that measures distance with pulses of laser light — to companies barring its autonomous vehicle rivals in 2019. It initially planned to sell its short-range sensor (known as Laser Bear Honeycomb) to businesses in the robotics, security and agricultural technology sectors. A form on its website also lists drones, mapping and entertainment as applicable industries.
+
+Waymo's fifth-generation Driver technology uses an array of sensors — including radar, lidar, and cameras — to help its cars "see" 360 degrees during the day and night, and even in tough weather conditions such as rain or fog. While its simulated and real world driving tests have helped it to amass a massive dataset that is crunched using machine learning-based software. According to anonymous sources cited by Reuters, Waymo intends to use in-house tech and external suppliers for its next-gen LiDARs.
+Just months after a CEO shakeup, Waymo is officially halting sales of its custom sensors to third parties.
+Waymo confirmed the decision to Reuters, adding that it's now focusing on deploying its Waymo Driver tech across its Waymo One ride-hailing and Waymo Via trucking divisions.
+Earlier this month, Waymo hit a milestone of 20 billion miles driven in simulations, with 20 million on public roads.
+Waymo began selling LiDARs — the tech that measures distance with pulses of laser light — to companies barring its autonomous vehicle rivals in 2019.
+According to anonymous sources cited by Reuters, Waymo intends to use in-house tech and external suppliers for its next-gen LiDARs

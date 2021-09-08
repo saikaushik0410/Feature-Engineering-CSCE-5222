@@ -1,0 +1,18 @@
+In a patch of Arizona, everyone knows Waymo. But few use it.
+Chandler, Arizona, is a city of just over 250,000 that’s located southeast of Phoenix. Like most of Arizona, it's hot, dry, and lined with cacti and palm trees.
+
+But unlike most of Arizona—or virtually anywhere else in the world—Chandler residents share the road with fully driverless robotaxis, courtesy of Waymo. As Stacy, a Chandler resident, told us, “Waymos are like rabbits in my neighborhood.”
+
+Since October 2020, the Alphabet subsidiary has been running its driverless ride-hail service, Waymo One, in a 50-square-mile service area that encompasses parts of Chandler, Tempe, Mesa, and Gilbert. Anyone with a smartphone, credit card, and GPS coordinates in the service area can hail a completely driverless ride of their own.
+
+In December 2018, Waymo opened Waymo One (with safety drivers) to the general public, expanding beyond an early rider program available to pre-approved, NDA-bound Phoenix residents. The company’s current testing zone, for driverless and safety operator-supervised vehicles, stretches across roughly 100 square miles.
+
+And although residents living in or near the service area may be used to seeing Waymo’s glossy-white, sensor-laden Chrysler Pacificas roving around, the chances they’ve ridden in one are much, much lower.
+
+Waymo One’s service area, geographically speaking, is slightly larger than San Francisco, where Google’s driverless car program got its start—and the second place where Waymo is scaling up mileage today.
+
+The four Arizona cities where Waymo is operational have a combined population of 1.2+ million. Waymo app downloads are an order of magnitude less than that figure, at ~110,000 (and anyone in the world can download the app, if they’re so inclined). Waymo says it provides hundreds of rides a week, the majority of which, we presume, are repeat customers.
+
+During a recent trip to Chandler, of the roughly two dozen locals in the service area we spoke with, every person was familiar with Waymo, but none had ridden in one. Almost everyone we spoke with was not aware the company now operates a driverless ride-hail service that’s open to the public.
+
+“I’m actually thoroughly impressed….What’s sad is that that machine probably drives better than half the people around here,” Austin, another local told us. But despite being impressed, he’s never taken a Waymo for a spin.

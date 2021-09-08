@@ -1,0 +1,10 @@
+Waymo launches robotaxi service in San Francisco – TechCrunch
+Waymo, the self-driving vehicle company under Alphabet, has launched a robotaxi service that will be open to certain vetted riders in San Francisco.
+
+On Tuesday, the company officially kicked off its Waymo One Trusted Tester program in the city with a fleet of all-electric Jaguar I-PACEs equipped with the company’s fifth generation of its autonomous vehicle system. This AV system, which has been branded the Waymo Driver, is informed by 20 million self-driven miles on public roads and over 10 billion miles driven in simulation, according to Waymo.
+
+The so-called Waymo One Trusted Tester program mirrors the company’s strategy in Phoenix, where it rolled out its first commercial ride-hailing service several years ago. The Trusted Tester program is a rebranding of Waymo’s previous Early Rider Program that it launched in Metro Phoenix in April 2017. Seeing as it’s been over four years, those riders are no longer exactly “early,” so a name change was in order, according to a Waymo spokesperson.
+
+In Phoenix, Waymo eventually invited some of the early riders to move over to the Waymo One service, which let users publicly share their impressions on the service and invite friends or family member who weren’t part of the early rider program. Waymo then opened the service to everyone.
+
+San Franciscans can download the Waymo One app and express their interest in joining the program, which will begin with an initial select group from diverse backgrounds with varied transportation needs, including wheelchair accessibility, according to Waymo. The company would not share how many riders would be included in the initial group, nor how many Jaguars it will have roaming the city, but it did say riders would have to be willing to offer a lot of detailed feedback on their riding experience and sign a nondisclosure agreement.

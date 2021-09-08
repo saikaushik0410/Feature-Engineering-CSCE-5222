@@ -1,0 +1,21 @@
+Residents pointed to other reasons for avoiding Waymo rides too, beyond safety concerns—some expressed worry about automating away human jobs, while others pointed out that most everyone in the area has a car (Phoenix’s average car ownership is two vehicles per household), so there’s little need for ride-hailing.
+
+“In Chandler, you own your own car,” Ricks said. “There’s no other option if you wanna get anywhere consistently and comfortably.”
+
+Inside and outside Waymo's depot in south Chandler; Source: Ryan Duffy
+
+For its part, Waymo is trying to address some of these concerns via public education campaigns and outreach. Waymo walked away from the term “self-driving” this January in favor of a more precise, multisyllabic “fully autonomous driving tech.” Just rolls of the tongue, right?
+
+Waymo has also partnered with organizations—most recently, the Southern Christian Leadership Conference—for “Let’s Talk Autonomous Driving” (LTAD).
+
+LTAD is equal parts public outreach campaign and mini-media operation. The website answers many of the questions we found ourselves getting in Arizona, like “What if it gets hacked?”
+
+Aldo Vazquez, a spokesman for AAA Arizona, says the company joined LTAD because of the “benefits of automated technology.” 94% of all car crashes are due to human error, he noted, citing NHTSA numbers. AAA believes the technology could help decrease the denominator of that figure: total crashes.
+
+The Foundation for Blind Children is another LTAD partner, and it joined because robotaxis could help extend mobility to those who can’t drive due to physical impairment, and don’t have adequate access to other forms of transportation.
+
+Marc Ashton, the foundation’s CEO, told us AVs “could be the last piece of the puzzle” for blind or visually impaired children. “Our kids can do almost everything,” he said, but mobility “is the last thing.”
+
+Push vs. pull
+
+The AV industry has quickly consolidated. Many of Waymo’s peers have ended up in a similar position: in the hands of a benevolent corporate owner. GM has a majority stake in Cruise; Amazon has all of Zoox; Ford and VW have sizable positions in Argo. Uber and Lyft have finally shaken themselves from their sunk cost fallacies, pawning off their AV divisions in fire sales.

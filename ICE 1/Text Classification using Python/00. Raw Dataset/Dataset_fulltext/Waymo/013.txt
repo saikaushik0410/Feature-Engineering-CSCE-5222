@@ -1,0 +1,9 @@
+"[This news is] long overdue,” said David Zipper, a transportation researcher and visiting Fellow at Harvard Kennedy School’s Taubman Center for State and Local Government. “Basically, Tesla’s made a series of strategic decisions to cut corners on safety in order to create advantages for the company. There’s a lot of skepticism of autonomous driving in general, but this company is pretty exceptional in its recklessness. Nobody else is naming something like this ‘autopilot’ [while also remaining] so resistant to installing driver monitoring systems to make sure drivers use it responsibly.”
+
+The collisions that sparked NHTSA’s investigation aren’t the only Tesla crashes that have caught the attention of safety hawks.
+
+The company was hit with a lawsuit following a 2018 Tokyo crash that marked the first time a driver relying on Autopilot technology killed a pedestrian on a public road; a handful more have died in U.S. crashes since, subjecting the automaker to further legal action. Tesla dissolved its press relations department in 2020 and could not be reached for comment on this story, but the owner’s manual it issues to customers repeatedly insists that human drivers are ultimately responsible for complying with life-saving local traffic laws.
+
+But critics say that a few written warnings to drivers in a more-than-200-page booklet aren’t nearly enough — especially because Tesla could automatically restrict the use of the error-prone tech to relatively predictable (and pedestrian-free) environments like divided highways, like other automakers who sell advanced driver assistance-equipped cars already do.
+
+Tesla has made some upgrades to its safety systems over the years, but some advocates think the company hasn’t done enough — and that the regulators that oversee semi-autonomous vehicle manufacturers in general haven’t, either.

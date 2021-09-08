@@ -1,0 +1,12 @@
+Waymo's autonomous vehicles have clocked 20 million miles on public roads
+Although other companies that are working on autonomous driving might get more attention, Waymo is still hard at work on the technology. The Alphabet subsidiary just provided an update on its Waymo Driver AI as well as more details about its self-driving tests.
+
+An array of LiDAR, radar and cameras can track what's going on all around the vehicle in a variety of weather conditions, Waymo says. The system generates a 3D view of the vehicle's surroundings that humans would be able to understand. Along with other cars, the system can render pedestrians in addition to cyclists who narrowly pass by the vehicle.
+
+The company says Waymo Driver can detect small objects and movements at a distance, such as a truck door in the middle of traffic and someone jumping out to deliver a package. It claims the AI can recognize steam emanating from utility holes and drive the vehicle through it, and understand the difference between a stop sign and its reflection.
+
+Waymo has been testing its vehicles in San Francisco since 2009 and it ramped up its efforts in the city earlier this year. Its vehicles now clock north of 100,000 miles on SF's roads every week. Between narrow streets, drastic changes in elevation and intersections right at the top of hills, San Francisco isn't an easy city to drive in, which makes it an effective testing ground for AVs.
+
+The company's vehicles have autonomously driven more than 20 million miles on public roads as well as 20 billion miles in simulations. That's a significant bank of data to draw from. Waymo says the AI can recognize and adapt to local driving behaviors, such as what lane to turn in at each intersection. According to the company, Waymo Driver can also mimic other vehicles' behavior, such as in SF, where people tend to drive a little slower while going up steep slopes.
+
+Fully autonomous driving is likely several years away from going mainstream, but it seems Waymo is making significant strides toward that goal. Hopefully, Waymo Driver is getting more comfortable around safety cones .

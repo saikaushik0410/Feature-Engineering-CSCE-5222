@@ -1,0 +1,28 @@
+Alphabet's Waymo to stop selling lidar self-driving car sensors
+A Waymo Chrysler Pacifica Hybrid self-driving vehicle is parked and displayed during a demonstration in Chandler, Arizona, November 29, 2018. REUTERS/Caitlin O’Hara
+
+SAN FRANCISCO, Aug 26 (Reuters) - Alphabet Inc's (GOOGL.O) self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies.
+
+This is a reversal from its earlier strategy to sell the lidars to non-automotive customers to bring down costs of a key and expensive component of self-driving cars.
+
+"We're winding down our commercial lidar business as we maintain our focus on developing and deploying our Waymo Driver across our Waymo One (ride-hailing) and Waymo Via (delivery) units," a Waymo spokesperson said in a statement.
+
+The spokesperson, however, said it will continue to build its lidars in-house.
+
+According to a person familiar with the matter, Waymo is considering both internal technology and external suppliers for its next-generation lidars. read more
+
+The move to stop selling lidars comes after the departure of CEO John Krafcik and some other executives, which had fueled questions about whether Waymo would rethink its strategy after failing to generate significant revenue for over a decade.
+
+In 2019, Waymo said it was going to sell one of its three different in-house lidars to customers in robotics, farming and others, not to rival self-driving car firms.
+
+"We can scale our autonomous technology faster, making each sensor more affordable through economies of scale," Simon Verghese, Head of Lidar Team, said at that time.
+
+It was not clear whether Waymo was able to generate enough revenue to offset development and operational costs of its lidar sales business.
+
+Lidars use laser pulses to measure distances and render precise images of the environment around the car. Most self-driving firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk said companies that rely on the expensive sensors are "doomed."
+
+Waymo in 2018 launched the first commercial self-driving taxis, retrofitting Chrysler's minivan with its own self-driving hardware. But it has not yet expanded and scaled up the technology beyond limited areas in suburban Phoenix, and it has recently launched public testing around dense San Francisco with a Jaguar electric car and a new suite of sensors. read more
+
+In 2011, Waymo began developing its own set of sensors from the ground up, including three types of lidars, including short-range lidars dubbed Laser Bear Honeycomb.
+
+But Tim Willis, general manager of the company's Laser Bear lidars, left the company in February and joined lidar company Aeva, according to his LinkedIn profile.
