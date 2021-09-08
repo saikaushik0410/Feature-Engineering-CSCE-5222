@@ -1,0 +1,20 @@
+Tesla Must Send Autopilot Data to Feds by October 22
+The National Highway Traffic Safety Administration (NHTSA) says Tesla must provide a wide-ranging set of data related to its Autopilot driver assistance system, as part of the agency's investigation into a series of crashes involving Teslas with the Autopilot software activated.
+
+NHTSA is asking for extensive information about every crash that a Tesla equipped with Autopilot has been involved in, and for details about Autopilot's operating parameters.
+
+Despite the ongoing investigation into Autopilot, Tesla CEO Elon Musk claimed on Twitter that the company will release a new version of the software it calls Full Self-Driving to beta-testing Tesla owners at midnight on Friday, September 10.
+
+The National Highway Traffic Safety Administration (NHTSA) has requested a wide-ranging set of data from Tesla regarding its Autopilot driver assistance system as the government agency pushes forward with its investigation into Autopilot-involved crashes. NHTSA is currently looking into a handful of crashes in which Teslas, apparently operating with Autopilot engaged, crashed into parked emergency vehicles and caused injuries or other damage. Tesla has until October 22 to hand over the data, which includes details on which of the vehicles it has sold are equipped with Autopilot as well as the system's operating parameters.
+
+In a public document that was also sent directly to Tesla, NHTSA asks the company to provide a list of every Tesla outfitted with the company's self-driving tech, including which hardware and software versions the car uses, as well as information on every crash the company is aware of involving a vehicle equipped with Autopilot. NHTSA has also asked for precise details of Autopilot's operating limits, including the maximum steering angle and maximum rates of acceleration and braking. The document also requests details about how the Autopilot system interacts with the driver, including a list of situations that would cause the system to disengage, and details of how and when driver inputs can override the Autopilot functions.
+
+The NHTSA investigation is focused on 12 crashes between Teslas and stopped emergency vehicles. When the investigation launched a few weeks ago, only 11 crashes were under investigation. But a collision between a Model 3 and a highway patrol car in Orlando, Florida last Saturday became the 12th crash on NHTSA's list. The owner of the Model 3 claimed Autopilot was engaged at the time of the crash.
+
+This content is imported from Twitter. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+FSD Beta 10 rolls out midnight Friday next week — Elon Musk (@elonmusk) September 2, 2021
+
+If NHTSA determines in its investigation that Tesla's Autopilot system is unsafe, it could compel the company to recall cars or repair them to correct any safety defects. NHTSA has estimated that any such fix could impact up to 765,000 Teslas built between 2014 and 2021.
+
+Tesla appears unperturbed by the investigation. The company's CEO, Elon Musk, said this week via Twitter that Tesla is preparing to release a new version of its so-called Full Self Driving (FSD) software, an even more ambitious driver-assistance system, to a group of Tesla owners who act as test subjects for new versions of the FSD software. Musk even hinted that the FSD software could be made widely available via an opt-in button within the next few weeks, though it wouldn't be the first time he'd changed his mind on that score. Tesla owners pay $10,000 for FSD capability, or can choose to pay a monthly rate of $199 instead.

@@ -1,0 +1,10 @@
+Enlarge Image Waymo
+
+The really neat thing is that the vehicle view is not that wildly different from the camera view. It takes the data from cameras, lidar and radar and turns them into something that allows us to recognize individual vehicles and pedestrians. This is a lot different from the vague-looking point clouds that we've seen in the past.
+
+It's still likely that we're a long way off from widely commercially available Level 4 or 5 autonomy. Still, the progress that Waymo has made in recent years to arrive at the point where it can confidently send out test vehicles in San Francisco is pretty staggering. We're looking forward to seeing what comes next from Alphabet's autonomous vehicle firm.
+It's been operating a publicly available driverless shuttle service in Arizona for a couple of years, and it expanded its testing programs all over, including to San Francisco.
+If you've never driven in San Francisco, it's not a fun place to try and get around in a car.
+In short, it's a great place to test the efficacy of a self-driving AI like Waymo Driver.
+Enlarge Image WaymoThe really neat thing is that the vehicle view is not that wildly different from the camera view.
+Still, the progress that Waymo has made in recent years to arrive at the point where it can confidently send out test vehicles in San Francisco is pretty staggering.

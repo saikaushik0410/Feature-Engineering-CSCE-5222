@@ -1,0 +1,21 @@
+Tesla Sells ‘Full Self-Driving,’ but What Is It Really?
+Tesla did not respond to several requests for comment.
+
+Complaints about the F.S.D. kit may pale in comparison with the concerns that people are being killed by misuse of or glitches in Tesla’s driver-assistance technology. But they point to a common thread of Tesla’s approach to driving automation: The company is making promises that other carmakers shrink from, and its customers think their cars can do more on their own than they really can.
+
+“One of the downsides of automated technology can be overreliance — people relying on something it may not be able to do,” said Jason K. Levine, executive director of the Center for Auto Safety, a nonprofit that has monitored the industry since the early 1970s.
+
+Other automakers are being considerably more conservative when it comes to automation. The likes of General Motors and Toyota offer driver-assistance technologies akin to Autopilot and F.S.D., but they do not market them as self-driving systems.
+
+Backed by billions of dollars from major automakers and tech giants, companies like Argo, Cruise and Waymo have been developing and testing autonomous vehicles for years. But in the near term, they have no intention of selling the technology to consumers. They are designing vehicles they hope to deploy in certain cities as ride-hailing services. Think Uber without the drivers.
+
+In each city, they begin by building a detailed, three-dimensional map. First they equip ordinary cars with lidar sensors — “light detection and ranging” devices that measure distances using pulses of light. As company workers drive these cars around the city, the sensors collect all the information needed to generate the map, pinpointing the distance to every curb, median and roadside tree.
+
+The cars then use this map to navigate roads on their own. They continue to monitor their surroundings using lidar, and they compare what they see with what the map shows, keeping close track of where they are in the world.
+
+At the same time, these sensors alert the cars to nearby objects, including other cars, pedestrians and bicyclists. But they do not do this alone. Additional sensors — including radar and cameras — do much the same. Each sensor provides its own snapshot of what is happening on the road, serving as a check on the others.
+kit may pale in comparison with the concerns that people are being killed by misuse of or glitches in Tesla’s driver-assistance technology.
+The likes of General Motors and Toyota offer driver-assistance technologies akin to Autopilot and F.S.D., but they do not market them as self-driving systems.
+First they equip ordinary cars with lidar sensors — “light detection and ranging” devices that measure distances using pulses of light.
+They continue to monitor their surroundings using lidar, and they compare what they see with what the map shows, keeping close track of where they are in the world.
+At the same time, these sensors alert the cars to nearby objects, including other cars, pedestrians and bicyclists.

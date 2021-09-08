@@ -1,0 +1,28 @@
+Senators ask FTC to investigate Tesla’s ‘Full Self-Driving’ promises
+Senators Ed Markey (D-MA) and Richard Blumenthal (D-CT) have asked new Federal Trade Commission Chair Lina Khan to investigate Tesla’s marketing of its advanced driver assistance system, Autopilot. The Senators are particularly concerned with how Tesla has been charging customers thousands of dollars for what it refers to as “Full Self-Driving capability,” despite the fact that buying that package does not make the company’s cars fully autonomous.
+
+“Tesla’s marketing has repeatedly overstated the capabilities of its vehicles, and these statements increasingly pose a threat to motorists and other users of the road,” the senators wrote in a letter published Wednesday. “Accordingly, we urge you to open an investigation into potentially deceptive and unfair practices in Tesla’s advertising and marketing of its driving automation systems and take appropriate enforcement action to ensure the safety of all drivers on the road.”
+
+The letter comes as the Biden administration has been steadily increasing the scrutiny of tech companies. Much of that focus to date has been through the lens of antitrust policy — especially at the FTC under Khan — but Tesla has drawn some heat as well. Earlier this week, the National Highway Traffic Safety Administration announced an investigation into Autopilot’s tendency to crash into parked emergency vehicles.
+
+The request comes days after safety regulators announced a new probe into Autopilot
+
+Tesla CEO Elon Musk has spent years claiming that his company’s cars were on the verge of being able to drive themselves without any human intervention, though that functionality has never arrived. In 2015, he said fully autonomous Teslas were just two years away. In 2016, Tesla announced that all its new cars had the hardware required to accomplish this, and that the company just needed a little more time to dial in the software. That turned out to not be true, as Tesla has since created a new computer that these older cars would need.
+
+At the same time, Tesla started offering customers a “Full Self-Driving” option when they bought their cars, essentially asking them to prepay for one day having a fully autonomous car. In exchange, these owners would get more advanced capabilities than what is offered in the standard Autopilot suite as Tesla developed them.
+
+In late 2018, Tesla pulled this option from its website, with Musk admitting that it caused “too much confusion.” But just a few months later, it was back, and Musk again promised that full autonomy would be available by the end of 2019.
+
+Since then, Tesla has continued to charge money for the “Full Self-Driving” option — the price currently stands at $10,000 if you buy it when you buy one of the company’s cars, though Tesla also recently started selling “subscriptions” to the Full Self-Driving package if owners want it after purchase. The company is explicit on its website that the option does not make its cars fully autonomous, though as of writing it still promises the functionality will be available by year’s end.
+
+Even then, Musk now says a “feature-complete” version of Tesla’s Full Self-Driving software is defined as the car being able to drive someone from home to work “most likely without interventions,” which does not describe a fully autonomous vehicle.
+
+Tesla once pulled the “Full Self-Driving” option from its website because of “confusion”
+
+Tesla has been beta testing this more “feature-complete” version of the Full Self-Driving software for months now, with a few thousand owners in the program running the software on roads across the country. Many of these owners have filmed their experiences with the software, which gets updated every few weeks or months. The results are a mixed bag; for every intervention-free video of a Tesla gliding through a cityscape, there’s another where the car refuses to take a left turn or dives toward oncoming traffic.
+
+Musk’s many claims, as well as the beta, and a video released in 2019 showing an early version of the Full Self-Driving software navigating roads in the San Francisco Bay Area make up the bulk of what the Senators cite in their letter. They also say Tesla has been misleading in its advertising of Autopilot and Full Self-Driving — though the company doesn’t engage in traditional advertising.
+
+“We fear that Tesla’s Autopilot and FSD features are not as mature and reliable as the company pitches to the public,” the Senators wrote. “Tesla drivers listen to these claims and believe their vehicles are equipped to drive themselves – with potentially deadly consequences.”
+
+Safety advocates and other regulators have long pushed for more scrutiny over the way Tesla treats its driver assistance technology. In early 2020, the National Transportation Board found that the design of Autopilot and overconfidence in its abilities were what led to a fatal crash in Mountain View, California. Musk has even admitted that drivers can get too complacent when using Tesla’s driver assistance features. But for years, he’s only allowed a passive form of driver monitoring when Autopilot is engaged

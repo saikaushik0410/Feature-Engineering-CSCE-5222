@@ -1,0 +1,10 @@
+esla explains how the Full Self-Driving sausage is made
+Tesla
+
+After a late start, Tesla's AI Day event kicked off Thursday evening with a video demonstration of the company's upcoming Full Self-Driving system following a navigation route on suburban roads. During the demo, a driver set a destination on the car's navigation system, double clicked the stalk on the steering column and the vehicle appeared to then pull into traffic and negotiate intersections with stop signs and traffic lights on its own. Along the way, it avoided pedestrians, making both right and left-hand turns. The driver, meanwhile, kept their fingertips lightly on the steering wheel as it spun around.
+
+Right now, Tesla's Full Self-Driving system is still technically not actually fully self-driving, but company CEO Elon Musk is bullish that this technology will not only advance, but will eventually be better than the average driver.
+
+"I'm confident that our hardware 3 Full Self-Driving computer 1 will be able to achieve full self-driving at a safety level much greater than a human," Musk said. "At least 200% or 300% better than a human. Then, obviously, there will be a hardware 4 FSD computer 2, which we'll probably introduce with Cybertruck -- so maybe in about a year or so. That will be about four times more capable, roughly."
+
+The bulk of the AI Day presentation was dedicated to how Tesla's artificial intelligence engineers are working to improve the comfort and safety of the FSD system. It starts with a three-dimensional Vector Space that is created as the vehicle senses its environment through its eight cameras. These eight feeds are corrected and then fused into a single virtual environmental prediction model that gives the car's computers a bird's-eye view of the world it's navigating. Think less 360-degree camera system and more Tron-like 3D recreation of the local space.

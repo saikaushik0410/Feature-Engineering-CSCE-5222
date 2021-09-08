@@ -1,0 +1,10 @@
+Waymo Is 99% of the way to self-driving cars. The last 1% is the hardest
+Joel Johnson laughs nervously from the backseat when his self-driving taxi stops in the middle of a busy road in suburban Phoenix. The car, operated by autonomous vehicle pioneer Waymo, has encountered a row of traffic cones in a construction zone, and won’t move. “Go around, man,” Johnson says as he gestures to the drivers honking behind him.
+
+After the vehicle has spent 14 mostly motionless minutes obstructing traffic, a Waymo technician tries to approach — but the car unexpectedly rolls forward, away from him. “It definitely seemed like a dangerous situation,” Johnson recalls.
+
+Incidents like this one, which Johnson posted to his YouTube channel in May, are embarrassing for Waymo — a company that’s having its own problems moving forward. A unit of Alphabet Inc., Waymo hasn’t expanded its robo-taxi service beyond Phoenix after years of careful testing. The company has floated moves into other areas — trucking, logistics, personal vehicles — but the businesses are in early stages. And its production process for adding cars to its driverless fleet has been painfully slow.
+
+This spring, Waymo saw a mass exodus of top talent. That included its chief executive officer, chief financial officer, and the heads of trucking product, manufacturing, and automotive partnerships. People familiar with the departures say some executives felt frustrated about the sluggish pace of progress at the enterprise.
+
+Despite years of research and billions of dollars invested, the technology behind self-driving cars still has flaws. Not long ago, a glorious future of autonomous vehicles from Waymo and its many competitors seemed close at hand. Now, “what people are realizing is that the work ahead is really hard,” says Tim Papandreou, a former employee and transit consultant.

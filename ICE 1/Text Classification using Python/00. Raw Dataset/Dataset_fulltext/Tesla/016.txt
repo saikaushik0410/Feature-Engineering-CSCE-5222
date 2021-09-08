@@ -1,0 +1,11 @@
+In 2017, the year Waymo launched self-driving rides with a backup human driver in Phoenix, one person hired at the company was told its robot fleets would expand to nine cities within 18 months. Staff often discussed having solved “99% of the problem” of driverless cars. “We all assumed it was ready,” says another ex-Waymonaut. “We’d just flip a switch and turn it on.”
+
+But it turns out that last 1% has been a killer. Small disturbances like construction crews, bicyclists, left turns, and pedestrians remain headaches for computer drivers. Each city poses new, unique challenges, and right now, no driverless car from any company can gracefully handle rain, sleet or snow. Until these last few details are worked out, widespread commercialization of fully autonomous vehicles is all but impossible.
+
+“We got to the moon, and it’s like, now what?” says Mike Ramsey, a Gartner analyst in Detroit and longtime industry spectator. “We stick a flag in it, grab some rocks, but now what? We can’t do anything with this moon.”
+
+Some assembly required
+
+At first, it appeared that Waymo would produce cars at a supercharged pace. In 2018, Waymo signed up to turn as many as 20,000 Jaguar SUVs into Waymo autonomous vehicles. Months later, it said it would expand its fleet of Chrysler Pacifica minivans to more than 60,000. Waymo planned to buy the cars and install what it called its “Driver” — a suite of cameras, sensors, and proprietary computer gear.
+
+“There’s not a lot in assembly,” then-CEO John Krafcik, a former auto executive, declared at an event that year.

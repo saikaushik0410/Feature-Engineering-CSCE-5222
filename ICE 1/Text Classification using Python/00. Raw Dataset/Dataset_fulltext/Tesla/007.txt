@@ -1,0 +1,14 @@
+Musk turns on Tesla’s latest Full Self-Driving beta, says it’s “actually not great”
+If you haven’t been impressed with what you’ve seen of Tesla’s latest Full Self-Driving beta, version 9.2, you’re not alone. CEO Elon Musk agrees.
+
+“FSD Beta 9.2 is actually not great imo,” he said in a tweet last night, “but Autopilot/AI team is rallying to improve as fast as possible.”
+
+FSD Beta 9.2 is actually not great imo, but Autopilot/AI team is rallying to improve as fast as possible. We’re trying to have a single stack for both highway & city streets, but it requires massive NN retraining. — Elon Musk (@elonmusk) August 23, 2021
+
+Development hell
+
+While Tesla's Full Self-Driving feature can perform impressively at times, videos from beta testers show it falling short at critical moments. In one video, a car approaching a small construction site suddenly steers toward a hole marked by orange cones. Earlier betas have seen Teslas successfully making turns in city streets before surging toward parked cars or scratching themselves by plowing through overgrown bushes extending into the right of way.
+
+The development of Tesla’s Full Self-Driving feature has had a long and rocky history. In June 2016, Musk said that he thought fully autonomous vehicles were just a couple of years off. “I really would consider autonomous driving to be basically a solved problem,” he said. “I think we're basically less than two years away from complete autonomy.”
+
+Months later, Tesla began delivering cars with new Autopilot hardware, which the company said at the time would be capable of full self-driving. (That statement ended up not being entirely true—some owners have to pay for a new computer to access Full Self-Driving.) In 2016, Tesla also began selling customers future access to the feature for $5,000, a price that the company would increase in increments to $10,000.

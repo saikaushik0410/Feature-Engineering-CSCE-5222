@@ -1,0 +1,47 @@
+Survey Reveals Tesla's Full Self-Driving Take Rate Is Declining
+A new survey, conducted by Troy Teslike, among over 17,000 Tesla car owners, reveals the take rate of Tesla's Full Self-Driving Capability (FSD) since its introduction in Q4 2016, up to Q2 2021.
+
+The Full Self-Driving Capability is an optional, in-development, software-based feature that is promised to offer a fully autonomous driving experience (at some point in the future), relying mostly on cameras.
+
+According to the data (which isn't guaranteed to be 100% correct), only a little bit over one in ten new Teslas globally is purchased with FSD.
+
+The take rate in Q2 2021 was actually at a record low level of 11.1% (on par with Q2 2018), after a continuous decline since the 46% peak in Q2 2019. See the full report here: FSD Take Rate until Q2 2021.
+
+The changes to take rate are actually easy to interpret. Initially, the feature was basically only a promise of self-driving (without any specific functions) and it cost "only" $3,000 above Autopilot/Enhanced Autopilot.
+
+In Q2 2019, Tesla removed the $5,000 Enhanced Autopilot and added all its features to the FSD (FSD price increased to $6,000), while the basic Autopilot became a standard feature (Autosteer and traffic-aware cruise control).
+
+Since then, the price of FSD gradually has increased to $10,000 and the take rate declined to 11%.
+
+Another important factor that contributes to the decline is a higher share of less expensive cars (Model 3/Model Y than Model S/Model Y), and a higher share of car sales in China/Asia and Europe where FSD is less popular than in the U.S.
+
+In July, the company launched a subscription service for the Full Self-Driving (FSD), which might fully affect the take rate. Separately, customers can add FSD after purchase, but it usually means a slightly higher price.
+
+Currently, the Full Self-Driving Capability ($10,000) includes:
+
+Navigate on Autopilot
+
+Auto Lane Change
+
+Autopark
+
+Summon
+
+Full Self-Driving Computer
+
+Traffic Light and Stop Sign Control
+
+Coming later this year: Autosteer on city streets
+
+The second chart reveals the data for North America and breaks it between Model 3, Model Y and Model S/X duo. The percents decline here as well.
+
+Troy Teslike estimates that in total about 359,200 FSD purchases were made (over 264,700 in North America, over 88,700 in Europe and just 5,700 in Asia-Pacific), which at an average of $6,000 (between $3,000 to $10,000) would be over $2.1 billion. Not bad - it should allow to pay the bills for the development of the autonomous driving system.
+
+Only time will tell whether Tesla will be able to deliver a true autonomous driving system, but let's not forget that even then, no one will be allowed to use it in public without proper regulations (approvals of the system and liability in the event of an accident).
+
+Anyway, as of now, the unofficial data indicate that FSD's take rate is declining, which indicates that customers might not be interested, don't believe that it will be delivered or consider it too expensive (at a promise/beta stage at least).
+A new survey, conducted by Troy Teslike, among over 17,000 Tesla car owners, reveals the take rate of Tesla's Full Self-Driving Capability (FSD) since its introduction in Q4 2016, up to Q2 2021.
+See the full report here: FSD Take Rate until Q2 2021.
+Initially, the feature was basically only a promise of self-driving (without any specific functions) and it cost "only" $3,000 above Autopilot/Enhanced Autopilot.
+In July, the company launched a subscription service for the Full Self-Driving (FSD), which might fully affect the take rate.
+Currently, the Full Self-Driving Capability ($10,000) includes:Navigate on AutopilotAuto Lane ChangeAutoparkSummonFull Self-Driving ComputerTraffic Light and Stop Sign ControlComing later this year: Autosteer on city streetsThe second chart reveals the data for North America and breaks it between Model 3, Model Y and Model S/X duo.
