@@ -1,0 +1,612 @@
+"File_Name";"Content";"Category";"Complete_Filename"
+"001.txt";"Why the feds are investigating Teslaâ€™s Autopilot and what that means for the future of self-driving cars
+Itâ€™s hard to miss the flashing lights of fire engines, ambulances and police cars ahead of you as youâ€™re driving down the road. But in at least 11 cases in the past three and a half years, Teslaâ€™s Autopilot advanced driver-assistance system did just that. This led to 11 accidents in which Teslas crashed into emergency vehicles or other vehicles at those scenes, resulting in 17 injuries and one death.
+
+The National Highway Transportation Safety Administration has launched an investigation into Teslaâ€™s Autopilot system in response to the crashes. The incidents took place between January 2018 and July 2021 in Arizona, California, Connecticut, Florida, Indiana, Massachusetts, Michigan, North Carolina and Texas. The probe covers 765,000 Tesla cars â€“ thatâ€™s virtually every car the company has made in the last seven years. Itâ€™s also not the first time the federal government has investigated Teslaâ€™s Autopilot.
+
+As a researcher who studies autonomous vehicles, I believe the investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles.
+
+How Teslaâ€™s Autopilot works
+
+Teslaâ€™s Autopilot uses cameras, radar and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer.
+
+Traffic-Aware Cruise Control, also known as adaptive cruise control, maintains a safe distance between the car and other vehicles that are driving ahead of it. This technology primarily uses cameras in conjunction with artificial intelligence algorithms to detect surrounding objects such as vehicles, pedestrians and cyclists, and estimate their distances. Autosteer uses cameras to detect clearly marked lines on the road to keep the vehicle within its lane.
+
+In addition to its Autopilot capabilities, Tesla has been offering what it calls â€œfull self-drivingâ€ features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has consistently warned users that these technologies require active driver supervision and that these features do not make the vehicle autonomous.
+
+Tesla is beefing up the AI technology that underpins Autopilot. The company announced on Aug. 19, 2021, that it is building a supercomputer using custom chips. The supercomputer will help train Teslaâ€™s AI system to recognize objects seen in video feeds collected by cameras in the companyâ€™s cars.
+
+Autopilot does not equal autonomous
+
+Advanced driver-assistance systems have been supported on a wide range of vehicles for many decades. The Society of Automobile Engineers divides the degree of a vehicleâ€™s automation into six levels, starting from Level 0, with no automated driving features, to Level 5, which represents full autonomous driving with no need for human intervention.
+
+Within these six levels of autonomy, there is a clear and vivid divide between Level 2 and Level 3. In principle, at Levels 0, 1 and 2, the vehicle should be primarily controlled by a human driver, with some assistance from driver-assistance systems. At Levels 3, 4 and 5, the vehicleâ€™s AI components and related driver-assistance technologies are the primary controller of the vehicle. For example, Waymoâ€™s self-driving taxis, which operate in the Phoenix area, are Level 4, which means they operate without human drivers but only under certain weather and traffic conditions.
+
+Tesla Autopilot is considered a Level 2 system, and hence the primary controller of the vehicle should be a human driver. This provides a partial explanation for the incidents cited by the federal investigation. Though Tesla says it expects drivers to be alert at all times when using the Autopilot features, some drivers treat the Autopilot as having autonomous driving capability with little or no need for human monitoring or intervention. This discrepancy between Teslaâ€™s instructions and driver behavior seems to be a factor in the incidents under investigation.
+
+Another possible factor is how Tesla assures that drivers are paying attention. Earlier versions of Teslaâ€™s Autopilot were ineffective in monitoring driver attention and engagement level when the system is on. The company instead relied on requiring drivers to periodically move the steering wheel, which can be done without watching the road. Tesla recently announced that it has begun using internal cameras to monitor driversâ€™ attention and alert drivers when they are inattentive.
+
+Another equally important factor contributing to Teslaâ€™s vehicle crashes is the companyâ€™s choice of sensor technologies. Tesla has consistently avoided the use of lidar. In simple terms, lidar is like radar but with lasers instead of radio waves. Itâ€™s capable of precisely detecting objects and estimating their distances. Virtually all major companies working on autonomous vehicles, including Waymo, Cruise, Volvo, Mercedes, Ford and GM, are using lidar as an essential technology for enabling automated vehicles to perceive their environments.
+
+By relying on cameras, Teslaâ€™s Autopilot is prone to potential failures caused by challenging lighting conditions, such as glare and darkness. In its announcement of the Tesla investigation, the NHTSA reported that most incidents occurred after dark where there were flashing emergency vehicle lights, flares or other lights. Lidar, in contrast, can operate under any lighting conditions and can â€œseeâ€ in the dark.
+";"Tesla";"001.txt-Tesla"
+"002.txt";"Tesla Wants To Launch Full Self-Driving Public Beta In September
+After a few days ago Elon Musk announced that the public debut of Full Self-Driving Beta was just weeks away, now the Tesla CEO has tweeted the exact time and date when Version 10 Beta will be made available to beta testers. Musk has now officially set the date for next Friday and he expects that about two weeks after that (around September 25), an updated version, Beta 10.1 is expected to be good enough for public rollout.
+
+So after being postponed several times and many months, it looks like all Tesla owners whose vehicles have the right hardware will be able to experience FSD. The software and the neural network behind it have been improved a lot recently and Tesla opted to eliminate the need for anything other than cameras with Version 9 of the system, what the manufacturer called 'Pure Vision.'
+
+The way Elon phrased it in his tweet, though, itâ€™s clear heâ€™s not 100 percent confident that Version 10.1 will, in fact, be good enough for public release. Not that long ago, he admitted that making cars that drive themselves is a far harder task than he anticipated and combined that with the ongoing NHTSA investigation into the Autopilot feature and you can understand why the manufacturer will treat this public rollout with maximum caution.
+
+Even if the deadline is respected, this still only means Tesla drivers from the US will gain access to FSD, but not those from Canada, Europe or China. Regarding Canada, though, it could probably be next after the US, and Musk expects that FSD will be made available in the country in a few monthsâ€™ time, while no date for Europe has thus far been set.
+After a few days ago Elon Musk announced that the public debut of Full Self-Driving Beta was just weeks away, now the Tesla CEO has tweeted the exact time and date when Version 10 Beta will be made available to beta testers.
+Musk has now officially set the date for next Friday and he expects that about two weeks after that (around September 25), an updated version, Beta 10.1 is expected to be good enough for public rollout.
+So after being postponed several times and many months, it looks like all Tesla owners whose vehicles have the right hardware will be able to experience FSD.
+The way Elon phrased it in his tweet, though, itâ€™s clear heâ€™s not 100 percent confident that Version 10.1 will, in fact, be good enough for public release.
+Even if the deadline is respected, this still only means Tesla drivers from the US will gain access to FSD, but not those from Canada, Europe or China.";"Tesla";"002.txt-Tesla"
+"003.txt";"How Good Is Tesla Full Self-Driving (Beta) Right Now? (Videos)
+In theory, we are getting closer and closer to a wide release of Teslaâ€™s beta feature-complete â€œFull Self Drivingâ€ package. If youâ€™re familiar with all of the background on this, skip to the third paragraph. If not, hereâ€™s the short story: Tesla has been working for years to increase its vehiclesâ€™ autonomous driving features. From not running over cats & dogs, to being able to change lanes on an Interstate highway without playing bumper cars, to being able to navigate through parking lots solo, Tesla cars have been getting more and more capable of autonomous driving. Two years ago, CEO Elon Musk indicated that Tesla vehicles with the â€œFull Self Drivingâ€ (FSD) package would have â€œfeature completeâ€ autonomous driving abilities by the end of the year (the end of 2019). They wouldnâ€™t yet be ready to roam the streets as robotaxis, but theyâ€™d be able to drive from door to door on their own â€” with human supervision. It turns out, though, that Teslaâ€™s method at the time had some software ceilings that just werenâ€™t going to make that practical.
+
+Tesla implemented a thorough rewrite/restart on its software approach to autonomous driving that took several months (or about a year). And then more hurdles popped up. In order to get to the level Tesla needed for wide release of the feature-complete FSD package, as Elon recently put it, itâ€™s been a matter of two steps forward, one step back â€” over and over again. The running joke among many Tesla fans is that wide release of the door-to-door FSD features has been ~2 weeks away for a year, or nearly two years. At the moment, based on the last update, itâ€™s ~3 weeks away. In the meantime, there are a few thousand special Tesla owners who have had the capabilities in their cars for the past several months and have been sending feedback to Tesla to help it refine the system. With each update, some of them have been posting videos on YouTube and Twitter. Thatâ€™s where we can bring the others back in.
+
+A couple of weeks ago, Tesla rolled out the v9.2 update of its FSD Beta system. Curious about how the self-driving tech is coming along, inspired by AI Day, and eager to potentially get the door-to-door FSD features in my Tesla Model 3 in a few weeks, Iâ€™ve been watching some of the recent videos. Below are a few good ones and some notes underneath them for anyone who is morally opposed to clicking play on 15 minute YouTube videos or even a sped-up 2:19 Twitter video.
+
+In this first one, Chuck Cook starts off by tackling one of the biggest challenges heâ€™s seen FSD struggle with. He tries to get his Model 3 to take a left turn across three lanes of traffic, through an opening between the median, and into the traffic flowing left. The car doesnâ€™t feel comfortable trying this on two attempts and decides to turn right instead. I can understand deciding to skip that turn â€” I would typically avoid making a turn like that â€” but the thing I found odd was that after making the right turn, instead of getting over in the left lane to try to turn around on the desired route, it reroutes into a loop that would just put the car right back to the place where it failed to make the unprotected left turn. Odd.
+
+Chuck then goes and finds a similar spot. He says the visibility is a bit better at this spot. He gets the car to make the left turn after much hesitation, but he has to tap the accelerator a couple of times to give it the encouragement to go. He goes back to the spot again and it makes the turn without any nudging when it sees a nice opening. He also indicates in the video that he likes how quickly the car accelerates once it makes the turn, but he wonders what the car would do if there was traffic on the other side of the median but not before the median â€” if the car would cross over and wait in the median area until there was an opening on the other side, or if it would just decide the turn was too challenging and avoid crossing altogether. On the third attempt in the same spot, the car again has an opening in both direction and makes the turn.
+
+Next up, Chuck decides to see if the car will nicely leave this partially divided highway and turn left across three lanes of traffic safely. Itâ€™s drizzling a bit and the car starts driving quickly into the turn. It doesnâ€™t cross any lines, but it is driving quite fast and thereâ€™s fast oncoming traffic. Chuck doesnâ€™t like what heâ€™s seeing and he decides to intervene to make sure the car doesnâ€™t drive into traffic. (I would have done the same.) Even if Chuck hadnâ€™t intervened and the car had stopped itself before causing an accident, it seems that it would have stopped too suddenly for the driverâ€™s/passengerâ€™s comfort. He goes back to make the attempt again and the car waits for traffic and makes the turn pretty much perfectly. In a third attempt, the car goes back to the tendency it had in the first scenario and seems intent on zipping across the lanes when itâ€™s not safe to do so, then it apparently sees the oncoming vehicles and makes a sudden stop before crossing any lane markings. Though, the activity freaked out an oncoming pickup driver enough that the truck quickly started swerving into the lane to its right. Then he sees the Tesla stop and swings back. Did the pickup truck driver check carefully before starting to move into the lane next to it? I hope so, but the whole segment comes across as a bit sketchy.
+
+Then Chuck returns to the unprotected left turn attempts. Visibility is bad on the left, but a big gap eventually appears and the car cautiously starts to make the turn. Lines on the touchscreen indicate itâ€™s going to turn left, but then the car gets a bit spooked (presumably about cars coming from the right) and decides to bail on the navigationâ€™s plan and turn right instead. Whoops. Chuck believes that the system thinks it needs to have clear traffic in both directions to make these turns, even though it could stop in the middle. Perhaps it just sees that middle space as inadequate, but itâ€™s not clear exactly why it wonâ€™t go sit in that middle spot and wait for the second opening. In yet another attempt, the car is waiting too long and traffic is building up behind Chuck, so he taps the accelerator, which encourages the car to go ahead and make its move, when he sees an opening. The car then executes the move perfectly â€” the maneuver through the median as well as the acceleration onto the highway once it reaches its lane.";"Tesla";"003.txt-Tesla"
+"004.txt";"Tesla Must Send Autopilot Data to Feds by October 22
+The National Highway Traffic Safety Administration (NHTSA) says Tesla must provide a wide-ranging set of data related to its Autopilot driver assistance system, as part of the agency's investigation into a series of crashes involving Teslas with the Autopilot software activated.
+
+NHTSA is asking for extensive information about every crash that a Tesla equipped with Autopilot has been involved in, and for details about Autopilot's operating parameters.
+
+Despite the ongoing investigation into Autopilot, Tesla CEO Elon Musk claimed on Twitter that the company will release a new version of the software it calls Full Self-Driving to beta-testing Tesla owners at midnight on Friday, September 10.
+
+The National Highway Traffic Safety Administration (NHTSA) has requested a wide-ranging set of data from Tesla regarding its Autopilot driver assistance system as the government agency pushes forward with its investigation into Autopilot-involved crashes. NHTSA is currently looking into a handful of crashes in which Teslas, apparently operating with Autopilot engaged, crashed into parked emergency vehicles and caused injuries or other damage. Tesla has until October 22 to hand over the data, which includes details on which of the vehicles it has sold are equipped with Autopilot as well as the system's operating parameters.
+
+In a public document that was also sent directly to Tesla, NHTSA asks the company to provide a list of every Tesla outfitted with the company's self-driving tech, including which hardware and software versions the car uses, as well as information on every crash the company is aware of involving a vehicle equipped with Autopilot. NHTSA has also asked for precise details of Autopilot's operating limits, including the maximum steering angle and maximum rates of acceleration and braking. The document also requests details about how the Autopilot system interacts with the driver, including a list of situations that would cause the system to disengage, and details of how and when driver inputs can override the Autopilot functions.
+
+The NHTSA investigation is focused on 12 crashes between Teslas and stopped emergency vehicles. When the investigation launched a few weeks ago, only 11 crashes were under investigation. But a collision between a Model 3 and a highway patrol car in Orlando, Florida last Saturday became the 12th crash on NHTSA's list. The owner of the Model 3 claimed Autopilot was engaged at the time of the crash.
+
+This content is imported from Twitter. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+FSD Beta 10 rolls out midnight Friday next week â€” Elon Musk (@elonmusk) September 2, 2021
+
+If NHTSA determines in its investigation that Tesla's Autopilot system is unsafe, it could compel the company to recall cars or repair them to correct any safety defects. NHTSA has estimated that any such fix could impact up to 765,000 Teslas built between 2014 and 2021.
+
+Tesla appears unperturbed by the investigation. The company's CEO, Elon Musk, said this week via Twitter that Tesla is preparing to release a new version of its so-called Full Self Driving (FSD) software, an even more ambitious driver-assistance system, to a group of Tesla owners who act as test subjects for new versions of the FSD software. Musk even hinted that the FSD software could be made widely available via an opt-in button within the next few weeks, though it wouldn't be the first time he'd changed his mind on that score. Tesla owners pay $10,000 for FSD capability, or can choose to pay a monthly rate of $199 instead.";"Tesla";"004.txt-Tesla"
+"005.txt";"Survey Reveals Tesla's Full Self-Driving Take Rate Is Declining
+A new survey, conducted by Troy Teslike, among over 17,000 Tesla car owners, reveals the take rate of Tesla's Full Self-Driving Capability (FSD) since its introduction in Q4 2016, up to Q2 2021.
+
+The Full Self-Driving Capability is an optional, in-development, software-based feature that is promised to offer a fully autonomous driving experience (at some point in the future), relying mostly on cameras.
+
+According to the data (which isn't guaranteed to be 100% correct), only a little bit over one in ten new Teslas globally is purchased with FSD.
+
+The take rate in Q2 2021 was actually at a record low level of 11.1% (on par with Q2 2018), after a continuous decline since the 46% peak in Q2 2019. See the full report here: FSD Take Rate until Q2 2021.
+
+The changes to take rate are actually easy to interpret. Initially, the feature was basically only a promise of self-driving (without any specific functions) and it cost ""only"" $3,000 above Autopilot/Enhanced Autopilot.
+
+In Q2 2019, Tesla removed the $5,000 Enhanced Autopilot and added all its features to the FSD (FSD price increased to $6,000), while the basic Autopilot became a standard feature (Autosteer and traffic-aware cruise control).
+
+Since then, the price of FSD gradually has increased to $10,000 and the take rate declined to 11%.
+
+Another important factor that contributes to the decline is a higher share of less expensive cars (Model 3/Model Y than Model S/Model Y), and a higher share of car sales in China/Asia and Europe where FSD is less popular than in the U.S.
+
+In July, the company launched a subscription service for the Full Self-Driving (FSD), which might fully affect the take rate. Separately, customers can add FSD after purchase, but it usually means a slightly higher price.
+
+Currently, the Full Self-Driving Capability ($10,000) includes:
+
+Navigate on Autopilot
+
+Auto Lane Change
+
+Autopark
+
+Summon
+
+Full Self-Driving Computer
+
+Traffic Light and Stop Sign Control
+
+Coming later this year: Autosteer on city streets
+
+The second chart reveals the data for North America and breaks it between Model 3, Model Y and Model S/X duo. The percents decline here as well.
+
+Troy Teslike estimates that in total about 359,200 FSD purchases were made (over 264,700 in North America, over 88,700 in Europe and just 5,700 in Asia-Pacific), which at an average of $6,000 (between $3,000 to $10,000) would be over $2.1 billion. Not bad - it should allow to pay the bills for the development of the autonomous driving system.
+
+Only time will tell whether Tesla will be able to deliver a true autonomous driving system, but let's not forget that even then, no one will be allowed to use it in public without proper regulations (approvals of the system and liability in the event of an accident).
+
+Anyway, as of now, the unofficial data indicate that FSD's take rate is declining, which indicates that customers might not be interested, don't believe that it will be delivered or consider it too expensive (at a promise/beta stage at least).
+A new survey, conducted by Troy Teslike, among over 17,000 Tesla car owners, reveals the take rate of Tesla's Full Self-Driving Capability (FSD) since its introduction in Q4 2016, up to Q2 2021.
+See the full report here: FSD Take Rate until Q2 2021.
+Initially, the feature was basically only a promise of self-driving (without any specific functions) and it cost ""only"" $3,000 above Autopilot/Enhanced Autopilot.
+In July, the company launched a subscription service for the Full Self-Driving (FSD), which might fully affect the take rate.
+Currently, the Full Self-Driving Capability ($10,000) includes:Navigate on AutopilotAuto Lane ChangeAutoparkSummonFull Self-Driving ComputerTraffic Light and Stop Sign ControlComing later this year: Autosteer on city streetsThe second chart reveals the data for North America and breaks it between Model 3, Model Y and Model S/X duo.";"Tesla";"005.txt-Tesla"
+"006.txt";"Amid Teslaâ€™s Autopilot Probe, Nearly Half the Public Thinks Autonomous Vehicles Are Less Safe Than Normal Cars
+More than 50% of Americans have not heard much or anything about the crashes involving Tesla vehicles using â€œAutopilotâ€ or the federal governmentâ€™s investigation into the matter.
+
+17% believe autonomous vehicles are as safe as cars driven by humans, up from 8% in 2018.
+
+37% of U.S. adults said they may ride in an autonomous vehicle in the future and 34% said they would not.
+
+The inside of a Tesla vehicle is viewed as it sits parked in a new Tesla showroom and service center in Red Hook, Brooklyn, on July 5, 2016, in New York City. The electric car company and its chief executive and founder, Elon Musk, have come under increasing scrutiny following a crash of one of its electric cars while using the Autopilot service. (Spencer Platt/Getty Images)
+
+As the federal government investigates Tesla Inc. for crashes involving its vehicles using the â€œAutopilotâ€ feature, a new poll indicates much of the public has safety concerns about autonomous vehicles, though Americansâ€™ interest in the cars has risen slightly compared to a few years ago. Forty-seven percent of U.S. adults said in the new Morning Consult poll that they believe AVs are less safe than cars driven by humans, down slightly from the 50 percent who said the same in a March-April 2018 survey. That poll was conducted shortly after the first-known fatal pedestrian accident in the United States involving a self-driving vehicle, which was being tested by Uber Technologies Inc. in Arizona.
+
+Seventeen percent of adults believe AVs are as safe as regular cars driven by humans, up from 8 percent who said the same in 2018, although the number of people who believe self-driving vehicles are safer than regular cars has dropped from 27 percent in 2018 to 22 percent in 2021. Despite the recent setbacks for autonomous vehicles, public interest in self-driving cars has increased slightly since 2018.
+
+In the latest survey, 23 percent of adults said they would ride in an AV, up from 19 percent who said the same in the 2018 survey. Another 37 percent said they may ride in an AV in the future, an increase from three years ago within the surveyâ€™s 2 percentage-point margin of error. The latest poll comes on the heels of an investigation launched by the National Highway Traffic Safety Administration last month into Tesla. NHTSA said it has identified 11 instances across nine different states where Tesla vehicles that had engaged either its â€œAutopilotâ€ or â€œTraffic Aware Cruise Controlâ€ modes crashed into vehicles driven by first responders on scene at an investigation. Shortly after the agency began scrutinizing the company, a Tesla Model 3 struck a parked police car and a Mercedes SUV in Orlando, Fla., with the driver telling officers she was using Autopilot at the time of the crash. While Tesla Chief Executive Elon Musk has been bullish on his companyâ€™s efforts, describing them as â€œarguably the leaders in real-world AIâ€ during Teslaâ€™s first â€œAI Dayâ€ last month, he has also been more measured in some recent comments. In late August, he said in a tweet that Teslaâ€™s latest self-driving software update was â€œnot greatâ€ but noted that the companyâ€™s AI team was working â€œas fast as possibleâ€ to improve it. Teslaâ€™s critics, meanwhile, are keen to rein in the company. New National Transportation Safety Board Chair Jennifer Homendy told Bloomberg that confusion over the capabilities of automated driving systems like Autopilot could impact public trust in the potential safety benefits of the technology. And Sens. Ed Markey (D-Mass.) and Richard Blumenthal (D-Conn.) jointly called for the Federal Trade Commission to investigate Tesla for its â€œpotentially deceptive and unfairâ€ advertising of Autopilot as being fully autonomous. While Teslaâ€™s AV crashes have received national attention from regulators and lawmakers, polling suggests that news of the NHTSAâ€™s investigation â€“ and the crashes themselves â€“ has failed to break through to the general public.
+More than 50% of Americans have not heard much or anything about the crashes involving Tesla vehicles using â€œAutopilotâ€ or the federal governmentâ€™s investigation into the matter.
+17% believe autonomous vehicles are as safe as cars driven by humans, up from 8% in 2018.
+37% of U.S. adults said they may ride in an autonomous vehicle in the future and 34% said they would not.
+Despite the recent setbacks for autonomous vehicles, public interest in self-driving cars has increased slightly since 2018.
+and Richard Blumenthal (D-Conn.) jointly called for the Federal Trade Commission to investigate Tesla for its â€œpotentially deceptive and unfairâ€ advertising of Autopilot as being fully autonomous.";"Tesla";"006.txt-Tesla"
+"007.txt";"Musk turns on Teslaâ€™s latest Full Self-Driving beta, says itâ€™s â€œactually not greatâ€
+If you havenâ€™t been impressed with what youâ€™ve seen of Teslaâ€™s latest Full Self-Driving beta, version 9.2, youâ€™re not alone. CEO Elon Musk agrees.
+
+â€œFSD Beta 9.2 is actually not great imo,â€ he said in a tweet last night, â€œbut Autopilot/AI team is rallying to improve as fast as possible.â€
+
+FSD Beta 9.2 is actually not great imo, but Autopilot/AI team is rallying to improve as fast as possible. Weâ€™re trying to have a single stack for both highway & city streets, but it requires massive NN retraining. â€” Elon Musk (@elonmusk) August 23, 2021
+
+Development hell
+
+While Tesla's Full Self-Driving feature can perform impressively at times, videos from beta testers show it falling short at critical moments. In one video, a car approaching a small construction site suddenly steers toward a hole marked by orange cones. Earlier betas have seen Teslas successfully making turns in city streets before surging toward parked cars or scratching themselves by plowing through overgrown bushes extending into the right of way.
+
+The development of Teslaâ€™s Full Self-Driving feature has had a long and rocky history. In June 2016, Musk said that he thought fully autonomous vehicles were just a couple of years off. â€œI really would consider autonomous driving to be basically a solved problem,â€ he said. â€œI think we're basically less than two years away from complete autonomy.â€
+
+Months later, Tesla began delivering cars with new Autopilot hardware, which the company said at the time would be capable of full self-driving. (That statement ended up not being entirely trueâ€”some owners have to pay for a new computer to access Full Self-Driving.) In 2016, Tesla also began selling customers future access to the feature for $5,000, a price that the company would increase in increments to $10,000.";"Tesla";"007.txt-Tesla"
+"008.txt";"Tesla Sells â€˜Full Self-Driving,â€™ but What Is It Really?
+Tesla did not respond to several requests for comment.
+
+Complaints about the F.S.D. kit may pale in comparison with the concerns that people are being killed by misuse of or glitches in Teslaâ€™s driver-assistance technology. But they point to a common thread of Teslaâ€™s approach to driving automation: The company is making promises that other carmakers shrink from, and its customers think their cars can do more on their own than they really can.
+
+â€œOne of the downsides of automated technology can be overreliance â€” people relying on something it may not be able to do,â€ said Jason K. Levine, executive director of the Center for Auto Safety, a nonprofit that has monitored the industry since the early 1970s.
+
+Other automakers are being considerably more conservative when it comes to automation. The likes of General Motors and Toyota offer driver-assistance technologies akin to Autopilot and F.S.D., but they do not market them as self-driving systems.
+
+Backed by billions of dollars from major automakers and tech giants, companies like Argo, Cruise and Waymo have been developing and testing autonomous vehicles for years. But in the near term, they have no intention of selling the technology to consumers. They are designing vehicles they hope to deploy in certain cities as ride-hailing services. Think Uber without the drivers.
+
+In each city, they begin by building a detailed, three-dimensional map. First they equip ordinary cars with lidar sensors â€” â€œlight detection and rangingâ€ devices that measure distances using pulses of light. As company workers drive these cars around the city, the sensors collect all the information needed to generate the map, pinpointing the distance to every curb, median and roadside tree.
+
+The cars then use this map to navigate roads on their own. They continue to monitor their surroundings using lidar, and they compare what they see with what the map shows, keeping close track of where they are in the world.
+
+At the same time, these sensors alert the cars to nearby objects, including other cars, pedestrians and bicyclists. But they do not do this alone. Additional sensors â€” including radar and cameras â€” do much the same. Each sensor provides its own snapshot of what is happening on the road, serving as a check on the others.
+kit may pale in comparison with the concerns that people are being killed by misuse of or glitches in Teslaâ€™s driver-assistance technology.
+The likes of General Motors and Toyota offer driver-assistance technologies akin to Autopilot and F.S.D., but they do not market them as self-driving systems.
+First they equip ordinary cars with lidar sensors â€” â€œlight detection and rangingâ€ devices that measure distances using pulses of light.
+They continue to monitor their surroundings using lidar, and they compare what they see with what the map shows, keeping close track of where they are in the world.
+At the same time, these sensors alert the cars to nearby objects, including other cars, pedestrians and bicyclists.";"Tesla";"008.txt-Tesla"
+"009.txt";"esla explains how the Full Self-Driving sausage is made
+Tesla
+
+After a late start, Tesla's AI Day event kicked off Thursday evening with a video demonstration of the company's upcoming Full Self-Driving system following a navigation route on suburban roads. During the demo, a driver set a destination on the car's navigation system, double clicked the stalk on the steering column and the vehicle appeared to then pull into traffic and negotiate intersections with stop signs and traffic lights on its own. Along the way, it avoided pedestrians, making both right and left-hand turns. The driver, meanwhile, kept their fingertips lightly on the steering wheel as it spun around.
+
+Right now, Tesla's Full Self-Driving system is still technically not actually fully self-driving, but company CEO Elon Musk is bullish that this technology will not only advance, but will eventually be better than the average driver.
+
+""I'm confident that our hardware 3 Full Self-Driving computer 1 will be able to achieve full self-driving at a safety level much greater than a human,"" Musk said. ""At least 200% or 300% better than a human. Then, obviously, there will be a hardware 4 FSD computer 2, which we'll probably introduce with Cybertruck -- so maybe in about a year or so. That will be about four times more capable, roughly.""
+
+The bulk of the AI Day presentation was dedicated to how Tesla's artificial intelligence engineers are working to improve the comfort and safety of the FSD system. It starts with a three-dimensional Vector Space that is created as the vehicle senses its environment through its eight cameras. These eight feeds are corrected and then fused into a single virtual environmental prediction model that gives the car's computers a bird's-eye view of the world it's navigating. Think less 360-degree camera system and more Tron-like 3D recreation of the local space.";"Tesla";"009.txt-Tesla"
+"010.txt";"Senators ask FTC to investigate Teslaâ€™s â€˜Full Self-Drivingâ€™ promises
+Senators Ed Markey (D-MA) and Richard Blumenthal (D-CT) have asked new Federal Trade Commission Chair Lina Khan to investigate Teslaâ€™s marketing of its advanced driver assistance system, Autopilot. The Senators are particularly concerned with how Tesla has been charging customers thousands of dollars for what it refers to as â€œFull Self-Driving capability,â€ despite the fact that buying that package does not make the companyâ€™s cars fully autonomous.
+
+â€œTeslaâ€™s marketing has repeatedly overstated the capabilities of its vehicles, and these statements increasingly pose a threat to motorists and other users of the road,â€ the senators wrote in a letter published Wednesday. â€œAccordingly, we urge you to open an investigation into potentially deceptive and unfair practices in Teslaâ€™s advertising and marketing of its driving automation systems and take appropriate enforcement action to ensure the safety of all drivers on the road.â€
+
+The letter comes as the Biden administration has been steadily increasing the scrutiny of tech companies. Much of that focus to date has been through the lens of antitrust policy â€” especially at the FTC under Khan â€” but Tesla has drawn some heat as well. Earlier this week, the National Highway Traffic Safety Administration announced an investigation into Autopilotâ€™s tendency to crash into parked emergency vehicles.
+
+The request comes days after safety regulators announced a new probe into Autopilot
+
+Tesla CEO Elon Musk has spent years claiming that his companyâ€™s cars were on the verge of being able to drive themselves without any human intervention, though that functionality has never arrived. In 2015, he said fully autonomous Teslas were just two years away. In 2016, Tesla announced that all its new cars had the hardware required to accomplish this, and that the company just needed a little more time to dial in the software. That turned out to not be true, as Tesla has since created a new computer that these older cars would need.
+
+At the same time, Tesla started offering customers a â€œFull Self-Drivingâ€ option when they bought their cars, essentially asking them to prepay for one day having a fully autonomous car. In exchange, these owners would get more advanced capabilities than what is offered in the standard Autopilot suite as Tesla developed them.
+
+In late 2018, Tesla pulled this option from its website, with Musk admitting that it caused â€œtoo much confusion.â€ But just a few months later, it was back, and Musk again promised that full autonomy would be available by the end of 2019.
+
+Since then, Tesla has continued to charge money for the â€œFull Self-Drivingâ€ option â€” the price currently stands at $10,000 if you buy it when you buy one of the companyâ€™s cars, though Tesla also recently started selling â€œsubscriptionsâ€ to the Full Self-Driving package if owners want it after purchase. The company is explicit on its website that the option does not make its cars fully autonomous, though as of writing it still promises the functionality will be available by yearâ€™s end.
+
+Even then, Musk now says a â€œfeature-completeâ€ version of Teslaâ€™s Full Self-Driving software is defined as the car being able to drive someone from home to work â€œmost likely without interventions,â€ which does not describe a fully autonomous vehicle.
+
+Tesla once pulled the â€œFull Self-Drivingâ€ option from its website because of â€œconfusionâ€
+
+Tesla has been beta testing this more â€œfeature-completeâ€ version of the Full Self-Driving software for months now, with a few thousand owners in the program running the software on roads across the country. Many of these owners have filmed their experiences with the software, which gets updated every few weeks or months. The results are a mixed bag; for every intervention-free video of a Tesla gliding through a cityscape, thereâ€™s another where the car refuses to take a left turn or dives toward oncoming traffic.
+
+Muskâ€™s many claims, as well as the beta, and a video released in 2019 showing an early version of the Full Self-Driving software navigating roads in the San Francisco Bay Area make up the bulk of what the Senators cite in their letter. They also say Tesla has been misleading in its advertising of Autopilot and Full Self-Driving â€” though the company doesnâ€™t engage in traditional advertising.
+
+â€œWe fear that Teslaâ€™s Autopilot and FSD features are not as mature and reliable as the company pitches to the public,â€ the Senators wrote. â€œTesla drivers listen to these claims and believe their vehicles are equipped to drive themselves â€“ with potentially deadly consequences.â€
+
+Safety advocates and other regulators have long pushed for more scrutiny over the way Tesla treats its driver assistance technology. In early 2020, the National Transportation Board found that the design of Autopilot and overconfidence in its abilities were what led to a fatal crash in Mountain View, California. Musk has even admitted that drivers can get too complacent when using Teslaâ€™s driver assistance features. But for years, heâ€™s only allowed a passive form of driver monitoring when Autopilot is engaged";"Tesla";"010.txt-Tesla"
+"011.txt";"Tesla hit by probe after autonomous car crashes
+â€œBiden has picked leadership that is independent minded and safety-conscious,â€ Jamie Court, president of Consumer Watchdog, told Bloomberg.
+
+The Tesla investigation covers an estimated 765,000 vehicles from the 2014 model year onward. It was launched after 11 cars using Autopilot collided with fire trucks, police cars or other vehicles. The crashes resulted in 17 injuries and one death.
+
+The announcement that NHTSA is stepping up the probe, along with a June order requiring car manufacturers to report crashes involving automated driving technology, points to the agency becoming more aggressive on the issue, Bloomberg reported.
+
+â€œTaken together, that order and this particular enforcement action could be the beginnings of a more active safety enforcement agenda for NHTSA,â€ said Paul Hemmersbaugh, former NHTSA general counsel.
+
+Nearly all US automakers are offering some form of advanced driver-assistance systems â€“ technology that helps drivers park, stay in the correct lane or avoid obstacles. However, completely autonomous vehicles still arenâ€™t commercially available.
+
+Read next: Tesla autopilot stays â€“ CEO
+
+Itâ€™s vital that regulators keep up with emerging driver assistance tech, especially as automakers move closer to fully driverless vehicles, according to Jake Fisher, director of auto testing at Consumer Reports.
+
+â€œIn a way that we have not seen in 50 or even 100 years, the control of the vehicle is fundamentally changing, and itâ€™s very serious,â€ Fisher told Bloomberg. â€œThe technology has advanced so quickly, itâ€™s really left regulators scrambling to keep up. Itâ€™s terrific that the regulators are finally realizing how serious this is.â€
+
+Federal lawmakers have also praised the agencyâ€™s decision to open the investigation.
+
+â€œNHTSA is rightly investigating Teslaâ€™s Autopilot after a series of concerning crashes,â€ Sen. Richard Blumenthal (D-Conn.) and Ed Markey (D-Mass.) said in a statement. â€œThis probe must be swift, thorough, and transparent to ensure driver and public safety.â€
+The Tesla investigation covers an estimated 765,000 vehicles from the 2014 model year onward.
+It was launched after 11 cars using Autopilot collided with fire trucks, police cars or other vehicles.
+The announcement that NHTSA is stepping up the probe, along with a June order requiring car manufacturers to report crashes involving automated driving technology, points to the agency becoming more aggressive on the issue, Bloomberg reported.
+â€œNHTSA is rightly investigating Teslaâ€™s Autopilot after a series of concerning crashes,â€ Sen. Richard Blumenthal (D-Conn.) and Ed Markey (D-Mass.)
+â€œThis probe must be swift, thorough, and transparent to ensure driver and public safety.â€";"Tesla";"011.txt-Tesla"
+"012.txt";"Enlarge Image Waymo
+
+The really neat thing is that the vehicle view is not that wildly different from the camera view. It takes the data from cameras, lidar and radar and turns them into something that allows us to recognize individual vehicles and pedestrians. This is a lot different from the vague-looking point clouds that we've seen in the past.
+
+It's still likely that we're a long way off from widely commercially available Level 4 or 5 autonomy. Still, the progress that Waymo has made in recent years to arrive at the point where it can confidently send out test vehicles in San Francisco is pretty staggering. We're looking forward to seeing what comes next from Alphabet's autonomous vehicle firm.
+It's been operating a publicly available driverless shuttle service in Arizona for a couple of years, and it expanded its testing programs all over, including to San Francisco.
+If you've never driven in San Francisco, it's not a fun place to try and get around in a car.
+In short, it's a great place to test the efficacy of a self-driving AI like Waymo Driver.
+Enlarge Image WaymoThe really neat thing is that the vehicle view is not that wildly different from the camera view.
+Still, the progress that Waymo has made in recent years to arrive at the point where it can confidently send out test vehicles in San Francisco is pretty staggering.";"Tesla";"012.txt-Tesla"
+"013.txt";"Waymo seeking passengers for free autonomous ride hailing test rides in San Francisco
+SAN FRANCISCO (KGO) -- Starting this week, some passengers will be able to hail and ride in an autonomous vehicle in San Francisco. Waymo has been testing the technology on city streets for 12 years and now is ready for testing with passengers.Here's how you can sign up and what Waymo expects back for the free ride.It's a big step forward for Waymo and for trusting passengers. The new phase of its test program is inviting adults to apply on his mobile app to hail rides for free in its electric Jaguar SUVs.""In exchange for feedback, we want to make sure we get a diverse set of opinions, a diverse set of feedback with people with varying mobility needs and perspectives,"" Waymo's senior product manager Sam Kansara says. ""And so this is the right step for us because it's an important part of being able to make sure we build a product that satisfies the needs of the community where we operate.""While the SUV is operating autonomously, using multiple cameras and laser technologies to guide it, a driver will remain at the wheel to intervene if needed.Waymo has been operating a similar test with passengers for two years outside Phoenix. But San Francisco's sometimes narrow and congested streets will be more challenging. The volume of pedestrians and bicycles will also add complexity.The trusted tester program will be limited to certain neighborhoods, such as the Sunset, the Richmond, Noe Valley and the Castro. It's a big step toward making autonomous vehicle ride sharing a viable commercial service. Hearing from passengers will provide insights into their confidence and its safety.""Tell us about what you're seeing on the screen and how that how that makes you feel or tell us about the drive itself,"" said Kansara. ""Tell us about maybe an interesting thing that happened along the way and your reaction to it.""Waymo isn't saying how long the free rides will last. It's estimated Waymo vehicles have been logging about 100,000 miles per week in San Francisco.A person fell off a scooter during a collision with a Waymo vehicle in San Francisco in June, but was not injured. The vehicle was not in autonomous mode at the time.In time, as testing continues, the backup driver may not be needed, and the trip could be truly navigated autonomously.
+SAN FRANCISCO (KGO) -- Starting this week, some passengers will be able to hail and ride in an autonomous vehicle in San Francisco.
+The new phase of its test program is inviting adults to apply on his mobile app to hail rides for free in its electric Jaguar SUVs.
+It's a big step toward making autonomous vehicle ride sharing a viable commercial service.
+""Waymo isn't saying how long the free rides will last.
+It's estimated Waymo vehicles have been logging about 100,000 miles per week in San Francisco.A person fell off a scooter during a collision with a Waymo vehicle in San Francisco in June, but was not injured.";"Tesla";"013.txt-Tesla"
+"014.txt";"Waymo Is 99% of the way to self-driving cars. The last 1% is the hardest
+Joel Johnson laughs nervously from the backseat when his self-driving taxi stops in the middle of a busy road in suburban Phoenix. The car, operated by autonomous vehicle pioneer Waymo, has encountered a row of traffic cones in a construction zone, and wonâ€™t move. â€œGo around, man,â€ Johnson says as he gestures to the drivers honking behind him.
+
+After the vehicle has spent 14 mostly motionless minutes obstructing traffic, a Waymo technician tries to approach â€” but the car unexpectedly rolls forward, away from him. â€œIt definitely seemed like a dangerous situation,â€ Johnson recalls.
+
+Incidents like this one, which Johnson posted to his YouTube channel in May, are embarrassing for Waymo â€” a company thatâ€™s having its own problems moving forward. A unit of Alphabet Inc., Waymo hasnâ€™t expanded its robo-taxi service beyond Phoenix after years of careful testing. The company has floated moves into other areas â€” trucking, logistics, personal vehicles â€” but the businesses are in early stages. And its production process for adding cars to its driverless fleet has been painfully slow.
+
+This spring, Waymo saw a mass exodus of top talent. That included its chief executive officer, chief financial officer, and the heads of trucking product, manufacturing, and automotive partnerships. People familiar with the departures say some executives felt frustrated about the sluggish pace of progress at the enterprise.
+
+Despite years of research and billions of dollars invested, the technology behind self-driving cars still has flaws. Not long ago, a glorious future of autonomous vehicles from Waymo and its many competitors seemed close at hand. Now, â€œwhat people are realizing is that the work ahead is really hard,â€ says Tim Papandreou, a former employee and transit consultant.";"Tesla";"014.txt-Tesla"
+"015.txt";"Waymo, by most measures, is still the leader of the worldâ€™s autonomous vehicle effort. Development of its technology began at Google more than a decade ago, and the company hit a historic milestone last year when it started its completely driverless taxi program in Arizona. During the pandemic, many rivals gave up on self-driving (Uber Technologies Inc.) or sold themselves to rivals (Zoox, which was acquired by Amazon.com Inc.). Waymo kept going, raising $5.7 billion from outside investors since last summer, adding to the untold billions Alphabet has already spent.
+
+Waymo points to its remarkable track record vs. those of its rivals. Since last fall, the company says itâ€™s provided â€œtens of thousandsâ€ of rides without a driver present in Arizona. â€œWe consider that to be a huge accomplishment,â€ a Waymo spokesperson said in a statement. â€œIn fact, the absence of any other such fully autonomous commercial offering is a demonstration of how hard it is to achieve this feat.â€
+
+Small disturbances like construction crews, bicyclists, left turns, and pedestrians remain headaches. Each city poses new, unique challenges, and right now, no driverless car from any company can gracefully handle rain, sleet or snow.
+
+But the companyâ€™s remaining competitors have also started to hit milestones. Argo AI, backed by Ford Motor Co. and Volkswagen AG, will start charging for robot rides in Miami and Austin later this year â€” albeit with a human minder behind the wheel. Zoox and Cruise, which is funded by General Motors, Honda, and SoftBank, have begun testing autonomous vehicles on public roads in California. While none of these companies has yet turned a profit on self-driving tech, theyâ€™re all directing billions of dollars toward erasing Waymoâ€™s early lead.
+
+Waymo separated from Googleâ€™s research lab in 2016 to become the latest subsidiary of Alphabet, and went on a hiring spree, recruiting personnel to cut business deals with automakers, draft financial models, lobby state houses, and market its technology. At the time, many Waymonauts â€” as employees call themselves â€” believed the machinery was in place for fully driverless cars to hit public roads imminently.";"Tesla";"015.txt-Tesla"
+"016.txt";"In 2017, the year Waymo launched self-driving rides with a backup human driver in Phoenix, one person hired at the company was told its robot fleets would expand to nine cities within 18 months. Staff often discussed having solved â€œ99% of the problemâ€ of driverless cars. â€œWe all assumed it was ready,â€ says another ex-Waymonaut. â€œWeâ€™d just flip a switch and turn it on.â€
+
+But it turns out that last 1% has been a killer. Small disturbances like construction crews, bicyclists, left turns, and pedestrians remain headaches for computer drivers. Each city poses new, unique challenges, and right now, no driverless car from any company can gracefully handle rain, sleet or snow. Until these last few details are worked out, widespread commercialization of fully autonomous vehicles is all but impossible.
+
+â€œWe got to the moon, and itâ€™s like, now what?â€ says Mike Ramsey, a Gartner analyst in Detroit and longtime industry spectator. â€œWe stick a flag in it, grab some rocks, but now what? We canâ€™t do anything with this moon.â€
+
+Some assembly required
+
+At first, it appeared that Waymo would produce cars at a supercharged pace. In 2018, Waymo signed up to turn as many as 20,000 Jaguar SUVs into Waymo autonomous vehicles. Months later, it said it would expand its fleet of Chrysler Pacifica minivans to more than 60,000. Waymo planned to buy the cars and install what it called its â€œDriverâ€ â€” a suite of cameras, sensors, and proprietary computer gear.
+
+â€œThereâ€™s not a lot in assembly,â€ then-CEO John Krafcik, a former auto executive, declared at an event that year.";"Tesla";"016.txt-Tesla"
+"017.txt";"In reality, skilled disassembly is required. Engineers must take apart the cars and put them back together by hand. One misplaced wire can leave engineers puzzling for days over where the problem is, according to a person familiar with the operations who describes the system as cumbersome and prone to quality problems. Like others who spoke candidly about the company, the former employee asked not to be identified for fear of retaliation.
+
+Skilled disassembly is required. Waymo engineers must take apart the cars and put them back together by hand. Argo and Cruise plan to build their driverless cars from the ground up.
+
+The painstaking nature of the process has left Waymo without a viable path to mass production, the person says. Waymo has slashed parts orders on the Chrysler minivan project and has had far fewer Jaguars delivered than initially expected, according to people familiar with the automakersâ€™ plans.
+
+The Waymo spokesperson says the company is not supply-constrained in Detroit, and that itâ€™s on track to hit all its internal production targets with Jaguar, but declines to share details. The company also disputes that itâ€™s fallen behind schedule on constructing its Chrysler vehicles, noting that these agreements are â€œfluid and subject to change.â€";"Tesla";"017.txt-Tesla"
+"018.txt";"The Waymo spokesperson says the company is not supply-constrained in Detroit, and that itâ€™s on track to hit all its internal production targets with Jaguar, but declines to share details. The company also disputes that itâ€™s fallen behind schedule on constructing its Chrysler vehicles, noting that these agreements are â€œfluid and subject to change.â€
+
+Waymoâ€™s competitors in Detroit already have vast manufacturing capabilities. Argo and Cruise, for example, plan to build their driverless cars from the ground up. Insiders generally believe that Waymo is the leader on technology, but manufacturing capacity could give Detroiters the advantage when it comes to rolling out fleets, according to Ramsey, the Gartner analyst. â€œI donâ€™t know what their current number is,â€ he says of Waymoâ€™s production. â€œBut it hasnâ€™t moved much.â€
+
+In 2019, Waymo rented a warehouse in Detroit to be, as Krafcik said at the time, â€œthe worldâ€™s first dedicated autonomous plant.â€ Michigan officials agreed to give the company an $8 million grant partly in exchange for creating at least 100 jobs in the state. As of last fall, Waymo had hired 22 people to work at the facility, according to state filings. The company says itâ€™s exceeded the 100-person job-creation pledge in the state, and would not comment on the headcount of specific offices.";"Tesla";"018.txt-Tesla"
+"019.txt";"Amid Tesla autopilot probe, 47% people say self-driving cars less safe: Survey
+While EV giant Tesla is being probed by the US National Highway Traffic Safety and Administration agency (NHTSA) for its autopilot-system-related crashes, there have been concerns about safety of autonomous vehicles. A new survey conducted by Morning Consult in the US last month revealed that 47% adults believe self-driving vehicles are less safe than normal human-driven ones.
+
+Seventeen per cent adults believe that autonomous vehicles are as safe as regular cars, up from 8 per cent who said the same in 2018. While 22 per cent say that self-driving vehicles are more safe than human-driven vehicles, the share of people who believe this has dropped from 27 percent in 2018 who said the same.
+
+However, despite the recent series of setbacks for autonomous vehicles post reports of Tesla crashes, public interest in self-driving cars has increased slightly since 2018. When asked if they would ride in an autonomous vehicle, 23 per cent of adults replied in affirmative, up from 19 per cent in 2018. About 34 per cent said they would not travel in a self-driving car, down from 38 per cent in 2018.
+
+A new survey conducted by Morning Consult in the US last month on safety of autonomous vehicles. (morningconsult.com)
+
+(Also read | Eye on India? Tesla may make 'cheap' $25,000 EV without steering wheel in 2023)
+
+While the Tesla crashes involving autopilot system have gained major attention from safety agencies and regulators, the survey reveals that the news has failed to reach majority of general public. The poll states that only one in ten US citizens had heard â€˜a lotâ€™ about the Tesla autopilot crashes and the investigation opened in its aftermath.
+
+Only 11 per cent of the respondents had heard â€˜a lotâ€™ about the crashes while only 9 per cent had heard â€˜a lotâ€™ out the federal investigation. About 38 per cent had some information about the crashes while only 36% about the probe. Share of people who had heard nothing at all about the crashes was about 28 per cent while 30 per cent had heard nothing about the federal probe relating to Tesla autopilot crashes.
+A new survey conducted by Morning Consult in the US last month revealed that 47% adults believe self-driving vehicles are less safe than normal human-driven ones.
+Seventeen per cent adults believe that autonomous vehicles are as safe as regular cars, up from 8 per cent who said the same in 2018.
+However, despite the recent series of setbacks for autonomous vehicles post reports of Tesla crashes, public interest in self-driving cars has increased slightly since 2018.
+About 34 per cent said they would not travel in a self-driving car, down from 38 per cent in 2018.
+A new survey conducted by Morning Consult in the US last month on safety of autonomous vehicles.";"Tesla";"019.txt-Tesla"
+"020.txt";"Can Tesla and other fully autonomous cars really work in the real world?
+Man working on laptop & texting on mobile in self-driving Tesla Model S car on autopilot (Source: ShutterStock)
+
+The new Mercedes-Benz S-Class is a hoot. It features one of the highest levels of automation found on a production Merc yet, and that includes its ability to drop you off at the curb and go looking for a parking spot, all on its own. While the feature, along with several others, hasnâ€™t been homologated for the Indian car market, it does bring into sharp relief the role played by autonomous software in driving the technology of the future.
+
+While the S-Class has been, for the longest time, tasked with bringing the future to present-day cars, in this regard it seems to have been beaten by the likes of Tesla, whose own Autopilot system is capable of helping you navigate off highways, respond to traffic lights, stop signs and be summoned from a parking lot, through a mobile app.
+
+Seems like the future has arrived, except, for some of Teslaâ€™s customers, the brand hasnâ€™t fulfilled its promise of fully autonomous driving. With mounting lawsuits over their claim of full, functional autonomy, Tesla has been forced to reconsider just what sort of real-world self-driving capabilities they can and will continue to offer. At present Tesla charges its customers a large sum, going up to Rs 7.2 lakh for what is mistitled as its â€œFull Self-Drivingâ€ or F.S.D package.
+
+In light of the constant scrutiny that Teslaâ€™s Autopilot seems to be under, particularly from government bodies, CEO Elon Musk appears to be singing a slightly different tune with regards to its feasibility than he was known to in the past. On June 6, Musk tweeted â€œGeneralised self-driving is a hard problem, as it requires solving a large part of real-world AI. Didnâ€™t expect it to be so hard, but the difficulty is obvious in retrospectâ€.
+
+Having realised the hard way that fully autonomous driving capabilities are extremely difficult to achieve, if not a pipe dream altogether, Musk is practising caution with his claims of full self-driving capabilities, admitting that â€œnothing has more degrees of freedom than realityâ€.
+
+So what exactly are the factors that are holding back fully self-driven cars? And should human intervention remain a necessary part and legally mandated aspect of operating what is essentially a metal projectile";"Tesla";"020.txt-Tesla"
+"001.txt";"In a patch of Arizona, everyone knows Waymo. But few use it.
+Chandler, Arizona, is a city of just over 250,000 thatâ€™s located southeast of Phoenix. Like most of Arizona, it's hot, dry, and lined with cacti and palm trees.
+
+But unlike most of Arizonaâ€”or virtually anywhere else in the worldâ€”Chandler residents share the road with fully driverless robotaxis, courtesy of Waymo. As Stacy, a Chandler resident, told us, â€œWaymos are like rabbits in my neighborhood.â€
+
+Since October 2020, the Alphabet subsidiary has been running its driverless ride-hail service, Waymo One, in a 50-square-mile service area that encompasses parts of Chandler, Tempe, Mesa, and Gilbert. Anyone with a smartphone, credit card, and GPS coordinates in the service area can hail a completely driverless ride of their own.
+
+In December 2018, Waymo opened Waymo One (with safety drivers) to the general public, expanding beyond an early rider program available to pre-approved, NDA-bound Phoenix residents. The companyâ€™s current testing zone, for driverless and safety operator-supervised vehicles, stretches across roughly 100 square miles.
+
+And although residents living in or near the service area may be used to seeing Waymoâ€™s glossy-white, sensor-laden Chrysler Pacificas roving around, the chances theyâ€™ve ridden in one are much, much lower.
+
+Waymo Oneâ€™s service area, geographically speaking, is slightly larger than San Francisco, where Googleâ€™s driverless car program got its startâ€”and the second place where Waymo is scaling up mileage today.
+
+The four Arizona cities where Waymo is operational have a combined population of 1.2+ million. Waymo app downloads are an order of magnitude less than that figure, at ~110,000 (and anyone in the world can download the app, if theyâ€™re so inclined). Waymo says it provides hundreds of rides a week, the majority of which, we presume, are repeat customers.
+
+During a recent trip to Chandler, of the roughly two dozen locals in the service area we spoke with, every person was familiar with Waymo, but none had ridden in one. Almost everyone we spoke with was not aware the company now operates a driverless ride-hail service thatâ€™s open to the public.
+
+â€œIâ€™m actually thoroughly impressedâ€¦.Whatâ€™s sad is that that machine probably drives better than half the people around here,â€ Austin, another local told us. But despite being impressed, heâ€™s never taken a Waymo for a spin.";"Waymo";"001.txt-Waymo"
+"002.txt";"A Waymo van from above; Source: Ryan's drone
+
+AVs still face a healthy dose of skepticism and mistrust from the general public: A March 2021 Morning Brew-Harris Poll survey found that just 48% of US adults would be somewhat comfortable in the passenger seat of an AV. And for their part, regular drivers in Phoenix show a tendency to keep the technology at armâ€™s length.
+
+â€œWhat happens if there is a glitchâ€”is there a backup system?â€ Antwoin, an Uber driver who lives in Phoenix, asked us. â€œThatâ€™s what I worry about. What if a satellite goes down and the car just goes crazy?â€
+
+Last October, Waymo published a safety report covering 6.1+ million miles of automated driving in Phoenix (and 65,000 driverless miles) from 2019 to Q3 â€™20. Of the datasetâ€™s 47 â€œcontact eventsâ€â€”thatâ€™s accidents to the rest of usâ€”18 happened IRL. 29 were simulated, with simulation software playing out how Waymo Driver would have acted had a human operator not taken over manual control.
+
+Waymo claims that nearly all contact events involved errors or rule violations by other human drivers or â€œroad users.â€ 16 were rear-end events; 15 were â€œangledâ€; 10 were sideswipes; and three were â€œsingle vehicle eventsâ€ which â€œinvolved the Waymo vehicle being struck by a pedestrian or cyclist while stationary.â€ Finally, there was one simulated head-on collision involving â€œanother vehicle traveling the wrong direction at night.""
+
+But this data doesnâ€™t tell the full story. Local police reports (via the Phoenix New Times) highlight incidents in which Waymo Driver appeared to behave erratically. One cyclist told police a van wouldâ€™ve hit him had he not stopped.
+
+â€œI am very aware of [Waymos] when I'm running on the road or riding my bike,â€ Stacy, the Chandler resident, told us. â€œWhen I was on my bike, I had one creep up on me. I chose to stop and wait for it to pass because it would not go around me as I was moving.â€
+
+While these may be non-falsifiable claims, they still show a suspicion among locals. In our experience, the Waymos we took gave a wide berth to pedestrians in parking lots and cyclists on public roads. See an example here.
+
+In a previous story about Waymo, we met Joel Ricks, a Chandler resident and Waymo One power user. Ricks has notched 160+ rides, during which he regularly tests the robotaxisâ€™ limits and posts his reactions to his YouTube channel.
+
+In May, Ricks posted a video titled: â€œWaymo Self Driving Taxi Fumbles In Construction Zone, Blocks Traffic.â€ His robotaxi glitches alongside traffic cones marking a closed lane. Waymo dispatches a team to extricate the vehicle, but suddenly it starts moving again...giving the impression that itâ€™s evading the techs sent to retrieve it.
+
+Ricks has posted dozens of hours of footage onlineâ€”mostly humdrum driving clips that get fewer than 10,000 views. But the video of a Waymo glitching went viral, racking up nearly 400,000 views and making headlines around the world.";"Waymo";"002.txt-Waymo"
+"003.txt";"Residents pointed to other reasons for avoiding Waymo rides too, beyond safety concernsâ€”some expressed worry about automating away human jobs, while others pointed out that most everyone in the area has a car (Phoenixâ€™s average car ownership is two vehicles per household), so thereâ€™s little need for ride-hailing.
+
+â€œIn Chandler, you own your own car,â€ Ricks said. â€œThereâ€™s no other option if you wanna get anywhere consistently and comfortably.â€
+
+Inside and outside Waymo's depot in south Chandler; Source: Ryan Duffy
+
+For its part, Waymo is trying to address some of these concerns via public education campaigns and outreach. Waymo walked away from the term â€œself-drivingâ€ this January in favor of a more precise, multisyllabic â€œfully autonomous driving tech.â€ Just rolls of the tongue, right?
+
+Waymo has also partnered with organizationsâ€”most recently, the Southern Christian Leadership Conferenceâ€”for â€œLetâ€™s Talk Autonomous Drivingâ€ (LTAD).
+
+LTAD is equal parts public outreach campaign and mini-media operation. The website answers many of the questions we found ourselves getting in Arizona, like â€œWhat if it gets hacked?â€
+
+Aldo Vazquez, a spokesman for AAA Arizona, says the company joined LTAD because of the â€œbenefits of automated technology.â€ 94% of all car crashes are due to human error, he noted, citing NHTSA numbers. AAA believes the technology could help decrease the denominator of that figure: total crashes.
+
+The Foundation for Blind Children is another LTAD partner, and it joined because robotaxis could help extend mobility to those who canâ€™t drive due to physical impairment, and donâ€™t have adequate access to other forms of transportation.
+
+Marc Ashton, the foundationâ€™s CEO, told us AVs â€œcould be the last piece of the puzzleâ€ for blind or visually impaired children. â€œOur kids can do almost everything,â€ he said, but mobility â€œis the last thing.â€
+
+Push vs. pull
+
+The AV industry has quickly consolidated. Many of Waymoâ€™s peers have ended up in a similar position: in the hands of a benevolent corporate owner. GM has a majority stake in Cruise; Amazon has all of Zoox; Ford and VW have sizable positions in Argo. Uber and Lyft have finally shaken themselves from their sunk cost fallacies, pawning off their AV divisions in fire sales.";"Waymo";"003.txt-Waymo"
+"004.txt";"Alphabet's Waymo to stop selling lidar self-driving car sensors
+A Waymo Chrysler Pacifica Hybrid self-driving vehicle is parked and displayed during a demonstration in Chandler, Arizona, November 29, 2018. REUTERS/Caitlin Oâ€™Hara
+
+SAN FRANCISCO, Aug 26 (Reuters) - Alphabet Inc's (GOOGL.O) self-driving unit Waymo said on Thursday that it has ended a two-year effort to sell light detection and ranging (lidar) sensors to other companies.
+
+This is a reversal from its earlier strategy to sell the lidars to non-automotive customers to bring down costs of a key and expensive component of self-driving cars.
+
+""We're winding down our commercial lidar business as we maintain our focus on developing and deploying our Waymo Driver across our Waymo One (ride-hailing) and Waymo Via (delivery) units,"" a Waymo spokesperson said in a statement.
+
+The spokesperson, however, said it will continue to build its lidars in-house.
+
+According to a person familiar with the matter, Waymo is considering both internal technology and external suppliers for its next-generation lidars. read more
+
+The move to stop selling lidars comes after the departure of CEO John Krafcik and some other executives, which had fueled questions about whether Waymo would rethink its strategy after failing to generate significant revenue for over a decade.
+
+In 2019, Waymo said it was going to sell one of its three different in-house lidars to customers in robotics, farming and others, not to rival self-driving car firms.
+
+""We can scale our autonomous technology faster, making each sensor more affordable through economies of scale,"" Simon Verghese, Head of Lidar Team, said at that time.
+
+It was not clear whether Waymo was able to generate enough revenue to offset development and operational costs of its lidar sales business.
+
+Lidars use laser pulses to measure distances and render precise images of the environment around the car. Most self-driving firms, including Waymo, say lidars are key to achieving full autonomy. Tesla CEO Elon Musk said companies that rely on the expensive sensors are ""doomed.""
+
+Waymo in 2018 launched the first commercial self-driving taxis, retrofitting Chrysler's minivan with its own self-driving hardware. But it has not yet expanded and scaled up the technology beyond limited areas in suburban Phoenix, and it has recently launched public testing around dense San Francisco with a Jaguar electric car and a new suite of sensors. read more
+
+In 2011, Waymo began developing its own set of sensors from the ground up, including three types of lidars, including short-range lidars dubbed Laser Bear Honeycomb.
+
+But Tim Willis, general manager of the company's Laser Bear lidars, left the company in February and joined lidar company Aeva, according to his LinkedIn profile.";"Waymo";"004.txt-Waymo"
+"005.txt";"Waymo's self-driving Jaguar I-Pace electric cars are ready for passengers
+Waymo is ready to offer rides to the public in self-driving Jaguar I-Pace electric cars, the company announced Tuesday in a blog post.
+
+The vehicles will operate in San Francisco as part of what Waymo calls its Trusted Tester program. Riders will be able to hail an I-Pace using the Waymo One app and will be asked share feedback about the experience, the company said. Waymo also confirmed that an ""autonomous specialist"" will be onboard for each ride.
+
+Waymo has been testing vehicles on public roads in the San Francisco Bay Area for 12 years, and began offering rides to employees in the area earlier this year, but this is the first time the general public will be able to ride Waymo self-driving cars in the city.
+
+Waymo Jaguar I-Pace
+
+So while San Francisco was one of Waymo's original testing grounds, it's a bit behind the Phoenix metropolitan area in commercialization of autonomous ride-hailing. Waymo began offering rides to Phoenix residents in 2017.
+
+Waymo started with Chrysler Pacifica Hybrid minivans, but the I-Pace joined the fleet in 2018. It marks the return of all-electric vehicles to the fleet following the retirement of Waymo's custom-designed EVs, which were eliminated to make way for the Pacificas.
+
+Recent studies indicate Americans don't have a lot of confidence in self-driving cars, and don't care much about the branding of autonomous vehicles, but that hasn't stopped Waymo and other companies from trying to commercialize the technology.
+
+Waymo Jaguar I-Pace
+
+General Motors-owned Cruise has said it plans to start accepting passengers soon. The startup-turned-GM division has used Chevrolet Bolt EV hatchbacks for testing, but plans to field a purpose-built EV called the Origin, which will use GM's Ultium modular battery system and will be built at the automaker's Factory Zero in Detroit.
+
+Tesla CEO Elon Musk has stoked the company's stock price by saying that the value of the company's vehicles will increase in the futureâ€”by activating them as fleets of self-driving robo-taxis. However, it's unclear if Tesla will be able to deliver on this promise.
+Waymo is ready to offer rides to the public in self-driving Jaguar I-Pace electric cars, the company announced Tuesday in a blog post.
+The vehicles will operate in San Francisco as part of what Waymo calls its Trusted Tester program.
+Riders will be able to hail an I-Pace using the Waymo One app and will be asked share feedback about the experience, the company said.
+Waymo Jaguar I-PaceSo while San Francisco was one of Waymo's original testing grounds, it's a bit behind the Phoenix metropolitan area in commercialization of autonomous ride-hailing.
+Waymo Jaguar I-PaceGeneral Motors-owned Cruise has said it plans to start accepting passengers soon.";"Waymo";"005.txt-Waymo"
+"006.txt";"Waymo will stop selling its self-driving LiDAR sensors to other companies
+Just months after a CEO shakeup, Waymo is officially halting sales of its custom sensors to third parties. The move sees the Alphabet-owned self-driving company unwinding a business operation just two years into its lifespan. Waymo confirmed the decision to Reuters, adding that it's now focusing on deploying its Waymo Driver tech across its Waymo One ride-hailing and Waymo Via trucking divisions.
+
+The decision comes in the wake of long-term CEO John Krafcik's departure, who was replaced at the helm by Waymo execs Tekedra Mawakana and Dmitri Dolgov. Some suggested that Krafcik's deliberate approach was hindering the company's push toward commercialization. Earlier this month, Waymo hit a milestone of 20 billion miles driven in simulations, with 20 million on public roads. Just days ago, it brought its robotaxis to vetted riders in San Francisco.
+
+Waymo began selling LiDARs â€” the tech that measures distance with pulses of laser light â€” to companies barring its autonomous vehicle rivals in 2019. It initially planned to sell its short-range sensor (known as Laser Bear Honeycomb) to businesses in the robotics, security and agricultural technology sectors. A form on its website also lists drones, mapping and entertainment as applicable industries.
+
+Waymo's fifth-generation Driver technology uses an array of sensors â€” including radar, lidar, and cameras â€” to help its cars ""see"" 360 degrees during the day and night, and even in tough weather conditions such as rain or fog. While its simulated and real world driving tests have helped it to amass a massive dataset that is crunched using machine learning-based software. According to anonymous sources cited by Reuters, Waymo intends to use in-house tech and external suppliers for its next-gen LiDARs.
+Just months after a CEO shakeup, Waymo is officially halting sales of its custom sensors to third parties.
+Waymo confirmed the decision to Reuters, adding that it's now focusing on deploying its Waymo Driver tech across its Waymo One ride-hailing and Waymo Via trucking divisions.
+Earlier this month, Waymo hit a milestone of 20 billion miles driven in simulations, with 20 million on public roads.
+Waymo began selling LiDARs â€” the tech that measures distance with pulses of laser light â€” to companies barring its autonomous vehicle rivals in 2019.
+According to anonymous sources cited by Reuters, Waymo intends to use in-house tech and external suppliers for its next-gen LiDARs";"Waymo";"006.txt-Waymo"
+"007.txt";"If Waymo Can't Do It Then I Wonder If Anyone Can
+Self-driving cars are not close to being a real thing, not even a little bit close, but the smart money in the ecosystem of companies that are trying to make self-driving cars real things has always been on Waymo, which has seemed furthest ahead for years. Except according to a new report, they might not do it either.
+
+Advertisement
+
+The report is a deep dive from Bloomberg, which, after some throat-clearing gets to the following critical bit, emphasis mine:
+
+â€œThereâ€™s not a lot in assembly,â€ then-CEO John Krafcik, a former auto executive, declared at an event that year. In reality, skilled disassembly is required. Engineers must take apart the cars and put them back together by hand. One misplaced wire can leave engineers puzzling for days over where the problem is, according to a person familiar with the operations who describes the system as cumbersome and prone to quality problems. Like others who spoke candidly about the company, the former employee asked not to be identified for fear of retaliation. The painstaking nature of the process has left Waymo without a viable path to mass production, the person says. Waymo has slashed parts orders on the Chrysler minivan project and has had far fewer Jaguars delivered than initially expected, according to people familiar with the automakersâ€™ plans. The Waymo spokesperson says the company is not supply-constrained in Detroit, and that itâ€™s on track to hit all its internal production targets with Jaguar, but declines to share details. The company also disputes that itâ€™s fallen behind schedule on constructing its Chrysler vehicles, noting that these agreements are â€œfluid and subject to change.â€
+
+Now, in the modern world of automobile mass production, saying that a company builds its cars by hand is basically a slur, the kind of thing people liked to sling at Tesla in the old days. This is because it is presumed that, if you donâ€™t have a highly automated manufacturing process, you cannot scale, and if you cannot scale then there is trouble at the heart of your business, indeed.
+
+As Tesla has shown, it is possible to overcome such bumps in the road, but not without a lot of money and drama in the interim, which will test Waymo and Google parent Alphabetâ€™s resolve. This is also to say nothing of the technology itself, which still isnâ€™t Level 5 autonomous foolproof, and seemingly far from it.
+
+Since Waymo has been at this for over a decade now, I would guess that it would take quite a bit for Alphabet to throw in the towel, but also Waymoâ€™s longtime CEO quit in April, the kind of thing that is either a rich guy choosing to move on or, possibly, a harbinger of doom";"Waymo";"007.txt-Waymo"
+"008.txt";"Watch San Franciscans Take a Ride in Waymoâ€™s Autonomous Car
+Waymo is inviting San Francisco residents to hop inside its self-driving vehicles for a drive around the city.
+
+The company has been giving rides to residents in Phoenix, Arizona, for several years, and has also been offering Waymo employees the same experience in the Golden City, where the company is based.
+
+But in an expansion of its efforts, Waymo is now inviting regular folks in San Francisco to experience a trip in a self-driving car as part of its new research-focused Trusted Tester program.
+
+â€œFor the first time, San Franciscans will be able to hail an autonomous ride in one of our all-electric Jaguar I-Pace vehicles,â€ the company said in a post announcing the Trusted Tester program.
+
+To mark the launch, Waymo posted a video showing residents taking their first ride in one of its driverless vehicles. The company released a similar video in 2018 showing the reactions of Phoenix residents as they tootled along the cityâ€™s streets.
+
+Notably, the trips in San Francisco will include a backup driver behind the wheel as part of safety measures.
+
+San Francisco residents interested in becoming part of the Trusted Tester program can sign up through the Waymo One app. Those accepted will be offered rides for free, with Waymo requesting an honest opinion about the trip in exchange.
+
+â€œOur San Francisco Trusted Testers can hail autonomous rides for their everyday needs anywhere they want to go in our initial service area, whether itâ€™s their favorite bakery in the Sunset, or a special picnic spot in Golden Gate Park,â€ Waymo said.
+
+It added, â€œFrom using the Waymo One app, to pickup and drop-offs, to the ride itself, we receive valuable feedback from our riders that allows us to refine our product offering as we advance our service.â€
+
+The company, which was spun out of Googleâ€™s long-running self-driving project in 2016, said itâ€™s also committed to making sure its ridesharing trial service is accessible for people with disabilities.
+
+â€œWeâ€™re beginning our Trusted Tester program with riders of all different mobility levels, and those who require a wheelchair accessible vehicle can hail directly from the Waymo One app and provide critical feedback on their experience as well,â€ Waymo said.
+
+The company hasnâ€™t revealed how many people will be allowed to join the program, or how long it will last.
+
+As engineers continue to refine the autonomous technology, Waymo is hoping that somewhere down the road regulators across the U.S. will allow it to launch full-fledged ridesharing services using its autonomous vehicles.
+
+But with variable traffic conditions, changing road layouts, and extreme weather events all presenting their own unique challenges for the technology, the expectation is that the first wide-scale autonomous taxi services will take place within specific boundaries and under strict conditions, such as on a university campus or within an airport, rather than on regular roads. As for the day when we can snooze in the back seat of our own driverless car on the commute to work, well, such an experience still appears to be years away.";"Waymo";"008.txt-Waymo"
+"009.txt";"Waymo launches robotaxi service in San Francisco â€“ TechCrunch
+Waymo, the self-driving vehicle company under Alphabet, has launched a robotaxi service that will be open to certain vetted riders in San Francisco.
+
+On Tuesday, the company officially kicked off its Waymo One Trusted Tester program in the city with a fleet of all-electric Jaguar I-PACEs equipped with the companyâ€™s fifth generation of its autonomous vehicle system. This AV system, which has been branded the Waymo Driver, is informed by 20 million self-driven miles on public roads and over 10 billion miles driven in simulation, according to Waymo.
+
+The so-called Waymo One Trusted Tester program mirrors the companyâ€™s strategy in Phoenix, where it rolled out its first commercial ride-hailing service several years ago. The Trusted Tester program is a rebranding of Waymoâ€™s previous Early Rider Program that it launched in Metro Phoenix in April 2017. Seeing as itâ€™s been over four years, those riders are no longer exactly â€œearly,â€ so a name change was in order, according to a Waymo spokesperson.
+
+In Phoenix, Waymo eventually invited some of the early riders to move over to the Waymo One service, which let users publicly share their impressions on the service and invite friends or family member who werenâ€™t part of the early rider program. Waymo then opened the service to everyone.
+
+San Franciscans can download the Waymo One app and express their interest in joining the program, which will begin with an initial select group from diverse backgrounds with varied transportation needs, including wheelchair accessibility, according to Waymo. The company would not share how many riders would be included in the initial group, nor how many Jaguars it will have roaming the city, but it did say riders would have to be willing to offer a lot of detailed feedback on their riding experience and sign a nondisclosure agreement.";"Waymo";"009.txt-Waymo"
+"010.txt";"Waymo will encourage riders to use its autonomous service to help them with their everyday mobility needs. The rides are free for now, and will start out in an initial territory in parts of San Francisco, including the Sunset, Richmond, Pacific Heights, Noe Valley, the Castro, Haight-Ashbury and more, with expectations to expand over time. The service will be offered 24 hours per day, seven days per week, the spokesperson told TechCrunch.
+
+The company will have so-called â€œautonomous specialistsâ€ â€” another term for human safety operators â€” sitting in the front seat to monitor the ride and ensure a safe experience. These safety drivers are contract workers, and employed by Transdev. Waymo has long partnered with Transdev to provide staffing for some of its operations.
+
+Waymoâ€™s rider support team will also be available at the tap of the button on the in-car screen or through the app if riders have any questions during their rides, the spokesperson said.
+Waymo, the self-driving vehicle company under Alphabet, has launched a robotaxi service that will be open to certain vetted riders in San Francisco.
+The so-called Waymo One Trusted Tester program mirrors the companyâ€™s strategy in Phoenix, where it rolled out its first commercial ride-hailing service several years ago.
+The Trusted Tester program is a rebranding of Waymoâ€™s previous Early Rider Program that it launched in Metro Phoenix in April 2017.
+In Phoenix, Waymo eventually invited some of the early riders to move over to the Waymo One service, which let users publicly share their impressions on the service and invite friends or family member who werenâ€™t part of the early rider program.
+Waymo will encourage riders to use its autonomous service to help them with their everyday mobility needs.";"Waymo";"010.txt-Waymo"
+"011.txt";"Waymo's Driver self-driving AI is seeing more clearly than ever
+Enlarge Image Waymo
+
+Waymo has been at the cutting edge of autonomous vehicle development for a while now. It's been operating a publicly available driverless shuttle service in Arizona for a couple of years, and it expanded its testing programs all over, including to San Francisco.
+
+If you've never driven in San Francisco, it's not a fun place to try and get around in a car. The streets are often narrow, the intersections can be weird, pedestrians are everywhere and all the elevation changes can make visibility a nightmare. In short, it's a great place to test the efficacy of a self-driving AI like Waymo Driver. Now, in a blog post published on Thursday, we're getting a look at just what the Waymo Driver sees as it moves around the city.
+
+Enlarge Image Waymo
+
+A big reason that Waymo has been so successful with its testing programs is just the sheer amount of miles it's driven (20 million on real roads!), both in the real world and in simulation. This has led to a really well-trained AI with a deep well of situations it can draw on to make split-second decisions in a place like San Francisco without relying on human intervention.";"Waymo";"011.txt-Waymo"
+"012.txt";"Federal Investigation into Tesla Autopilot Defects Could Pull 765k Cars From U.S. Roads
+
+A new federal investigation into Teslaâ€™s possibly-defective driver assistance technology could result in the removal of hundreds of thousands of their cars from U.S. roads â€” and some advocates are wondering whether there might be even more regulation for Elon Muskâ€™s brainchild on the horizon, if not the autonomous vehicle industry at large.
+
+Following 11 incidents in the U.S. in which both Teslaâ€™s advanced driver assistance systems and their human backstop drivers failed to prevent crashes into emergency services vehicles, the National Highway Traffic Safety Administrationâ€™s Office of Defects Investigation announced on Monday that it will examine whether the companyâ€™s so-called â€œAutopilotâ€ and â€œTraffic Aware Cruise Controlâ€ features are too faulty to be allowed on U.S. roads. In most of the crashes, the struck vehicles in question were parked and surrounded by â€œscene control measures such as first responder vehicle lights, flares, an illuminated arrow board, and road conesâ€ that should have made the vehicles easily visible to Teslaâ€™s sensors, the agency noted.
+
+If the investigation results in a recall, an estimated 765,000 cars could be pulled from U.S. roads â€” the majority of the vehicles ever produced by the company.
+
+The news was celebrated by safe streets advocates, many of whom say the company knowingly overstates claims about the reliability of its semi-autonomous driving technology. Despite its deceptive name, Teslas equipped with Autopilot are not, in fact, self-driving cars, but rather standard vehicles equipped with a range of driver assistance systems that are theoretically capable of automatic emergency braking, adaptive cruise control, and automatic steering on clearly marked highways, among other features. But in practice, these systems can fail while the carsâ€™ owners are (sometimes literally) asleep at the wheel â€” and the carâ€™s built-in driver monitoring systems, which do not include recommended measures like driver eye monitoring systems, are easily tricked.";"Waymo";"012.txt-Waymo"
+"013.txt";"""[This news is] long overdue,â€ said David Zipper, a transportation researcher and visiting Fellow at Harvard Kennedy Schoolâ€™s Taubman Center for State and Local Government. â€œBasically, Teslaâ€™s made a series of strategic decisions to cut corners on safety in order to create advantages for the company. Thereâ€™s a lot of skepticism of autonomous driving in general, but this company is pretty exceptional in its recklessness. Nobody else is naming something like this â€˜autopilotâ€™ [while also remaining] so resistant to installing driver monitoring systems to make sure drivers use it responsibly.â€
+
+The collisions that sparked NHTSAâ€™s investigation arenâ€™t the only Tesla crashes that have caught the attention of safety hawks.
+
+The company was hit with a lawsuit following a 2018 Tokyo crash that marked the first time a driver relying on Autopilot technology killed a pedestrian on a public road; a handful more have died in U.S. crashes since, subjecting the automaker to further legal action. Tesla dissolved its press relations department in 2020 and could not be reached for comment on this story, but the ownerâ€™s manual it issues to customers repeatedly insists that human drivers are ultimately responsible for complying with life-saving local traffic laws.
+
+But critics say that a few written warnings to drivers in a more-than-200-page booklet arenâ€™t nearly enough â€” especially because Tesla could automatically restrict the use of the error-prone tech to relatively predictable (and pedestrian-free) environments like divided highways, like other automakers who sell advanced driver assistance-equipped cars already do.
+
+Tesla has made some upgrades to its safety systems over the years, but some advocates think the company hasnâ€™t done enough â€” and that the regulators that oversee semi-autonomous vehicle manufacturers in general havenâ€™t, either.";"Waymo";"013.txt-Waymo"
+"014.txt";"Following a 2017 crash in Williston, Fla. involving a Tesla driver who was warned seven times to put his hands back on the wheel without his vehicle being brought to a safe stop by Autopilot, the National Transportation Safety Board encouraged NHTSA to â€œdevelop a method to verify that manufacturers [of such systems] incorporate safeguards that limit the use of automated vehicle control systems to those conditions for which they were designed.â€
+
+Despite a contentious history with the safety organization â€” Tesla CEO Musk reportedly hung up on then-NTSB chair Robert Sumwalt during a heated conversation about another 2018 probe into another crash involving one of his companyâ€™s cars â€” the automaker did add new features to curb hands-off driving. But NHTSA has yet to update federal policies to require all companies to take such safety measures in the future â€” something the board hopes could finally happen now.
+
+â€œTodayâ€™s action by NHTSA is a positive step forward for safety,â€ said NTSB Chairwoman Jennifer Homendy in a release. â€œAs we navigate the emerging world of advanced driving assistance systems, itâ€™s important that NHTSA has insight into what these vehicles can, and cannot, do.â€
+
+Clip from China of a $TSLA Model 3, evidently equipped with the latest and greatest safety technology. My guess is the 4D dojo supercomputer recognizes that the pedestrian dummy is not a human and therefore sees no reason to perform evasive maneuvers. pic.twitter.com/R1mQqbxIy9 â€” degen (@finance_degen) September 20, 2020
+
+A Tesla recall could have an impact on the companyâ€™s progress towards more advanced autonomous driving tech, too.";"Waymo";"014.txt-Waymo"
+"015.txt";"In a decision that was widely decried by all but the most fervent AV-supporters, the company recently announced its intentions to release the latest edition of its â€œFull Self Drivingâ€ technology to a select group of its drivers for beta testing on neighborhood roads throughout the U.S., defying industry norms like testing new tech on private tracks, or at least using trained drivers when cars must be tested in the public right of way. Much like vehicles running on Auto-Pilot, Teslas equipped with â€œFull Self Drivingâ€ mode are not autonomous; they just offer additional features like automatic parking, along with still-nascent technology that the company says will someday identify â€œstop signs and traffic lights and automatically slows your car to a stop on approach, with [driversâ€™] active supervision.â€ (Emphasis ours.)
+
+Musk has cautioned his beta-testers to â€œplease be paranoidâ€ on the roads, but advocates say that polite request is far less than the participants in his experiment deserve â€” especially because virtually all of the pedestrians, cyclists, wheelchair users, and other drivers involved are completely unwitting.
+
+â€œTesla defenders tend to say, [programs like] â€˜Autopilot may not be perfect, but drivers accept the risk as they drive,'â€ adds Zipper. â€œWell, that may be true, but the people outside the car didnâ€™t.â€
+
+Running preproduction software is both work & fun. Beta list was in stasis, as we had many known issues to fix. Beta 9 addresses most known issues, but there will be unknown issues, so please be paranoid. Safety is always top priority at Tesla. â€” Elon Musk (@elonmusk) July 9, 2021";"Waymo";"015.txt-Waymo"
+"016.txt";"If NHTSAâ€™s investigation fails to rein in Muskâ€™s recklessness, advocates worry it may be challenging to exert control over the rest of the fast-changing industry. Most proponents of autonomous vehicles not employed by Tesla say theyâ€™re happy to keep the real self-driving technology off neighborhood roads until itâ€™s certified safe, but verbal commitments from the private sector donâ€™t carry the force of a government mandate. The bipartisan infrastructure bill currently being debated in Congress largely ignored the autonomous vehicle revolution, besides making the industry eligible for new research and development grants.
+
+Advocates are hopeful that NHTSAâ€™s new investigation is a sign that theyâ€™re finally stepping up to the plate.
+
+â€œI donâ€™t know why we need Congress to get NHTSA to do its job,â€ added Zipper. â€œThe NTSB has been basically jumping up and down screaming that we need to do something about this Tesla for years. Maybe now they will. â€¦ And maybe someday, theyâ€™ll expand their capacity to do more investigations like this.â€
+Federal Investigation into Tesla Autopilot Defects Could Pull 765k Cars From U.S.
+If the investigation results in a recall, an estimated 765,000 cars could be pulled from U.S. roads â€” the majority of the vehicles ever produced by the company.
+â€œTesla defenders tend to say, [programs like] â€˜Autopilot may not be perfect, but drivers accept the risk as they drive,'â€ adds Zipper.
+Advocates are hopeful that NHTSAâ€™s new investigation is a sign that theyâ€™re finally stepping up to the plate.
+â€œThe NTSB has been basically jumping up and down screaming that we need to do something about this Tesla for years.";"Waymo";"016.txt-Waymo"
+"017.txt";"What the Tesla Autopilot investigation means for the future of self-driving cars
+
+Itâ€™s hard to miss the flashing lights of fire engines, ambulances, and police cars ahead of you as youâ€™re driving down the road. But in at least 11 cases in the past three and a half years, Teslaâ€™s Autopilot advanced driver-assistance system did just that. This led to 11 accidents in which Teslas crashed into emergency vehicles or other vehicles at those scenes, resulting in 17 injuries and 1 death.
+
+The National Highway Transportation Safety Administration has launched an investigation into Teslaâ€™s Autopilot system in response to the crashes. The incidents took place between January 2018 and July 2021 in Arizona, California, Connecticut, Florida, Indiana, Massachusetts, Michigan, North Carolina, and Texas. The probe covers 765,000 Tesla carsâ€”thatâ€™s virtually every car the company has made in the past seven years. Itâ€™s also not the first time the federal government has investigated Teslaâ€™s Autopilot. As a researcher who studies autonomous vehicles, I believe the investigation will put pressure on Tesla to reevaluate the technologies the company uses in Autopilot and could influence the future of driver-assistance systems and autonomous vehicles. How Teslaâ€™s Autopilot works Teslaâ€™s Autopilot uses cameras, radar, and ultrasonic sensors to support two major features: Traffic-Aware Cruise Control and Autosteer.
+
+Traffic-Aware Cruise Control, also known as adaptive cruise control, maintains a safe distance between the car and other vehicles that are driving ahead of it. This technology primarily uses cameras in conjunction with artificial intelligence algorithms to detect surrounding objects, such as vehicles, pedestrians, and cyclists, and estimate their distances. Autosteer uses cameras to detect clearly marked lines on the road to keep the vehicle within its lane. In addition to its Autopilot capabilities, Tesla has been offering what it calls â€œfull self-drivingâ€ features that include autopark and auto lane change. Since its first offering of the Autopilot system and other self-driving features, Tesla has consistently warned users that these technologies require active driver supervision and that these features do not make the vehicle autonomous. Tesla is beefing up the AI technology that underpins Autopilot. The company announced on August 19, 2021, that it is building a supercomputer using custom chips. The supercomputer will help train Teslaâ€™s AI system to recognize objects seen in video feeds collected by cameras in the companyâ€™s cars.
+
+Autopilot does not equal autonomous Advanced driver-assistance systems have been supported on a wide range of vehicles for many decades. The Society of Automobile Engineers divides the degree of a vehicleâ€™s automation into six levels, starting from Level 0, with no automated driving features; to Level 5, which represents full autonomous driving with no need for human intervention. Within these six levels of autonomy, there is a clear and vivid divide between Level 2 and Level 3. In principle, at Levels 0, 1, and 2, the vehicle should be primarily controlled by a human driver, with some assistance from driver-assistance systems. At Levels 3, 4, and 5, the vehicleâ€™s AI components and related driver-assistance technologies are the primary controller of the vehicle. For example, Waymoâ€™s self-driving taxis, which operate in the Phoenix area, are Level 4, which means they operate without human drivers but only under certain weather and traffic conditions. Tesla Autopilot is considered a Level 2 system, and hence the primary controller of the vehicle should be a human driver. This provides a partial explanation for the incidents cited by the federal investigation. Though Tesla says it expects drivers to be alert at all times when using the Autopilot features, some drivers treat the Autopilot as having autonomous driving capability with little or no need for human monitoring or intervention. This discrepancy between Teslaâ€™s instructions and driver behavior seems to be a factor in the incidents under investigation.";"Waymo";"017.txt-Waymo"
+"018.txt";"Another possible factor is how Tesla assures that drivers are paying attention. Earlier versions of Teslaâ€™s Autopilot were ineffective in monitoring driver attention and engagement level when the system is on. The company instead relied on requiring drivers to periodically move the steering wheel, which can be done without watching the road. Tesla recently announced that it has begun using internal cameras to monitor driversâ€™ attention and alert drivers when they are inattentive. Another equally important factor contributing to Teslaâ€™s vehicle crashes is the companyâ€™s choice of sensor technologies. Tesla has consistently avoided the use of lidar. In simple terms, lidar is like radar but with lasers instead of radio waves. Itâ€™s capable of precisely detecting objects and estimating their distances. Virtually all major companies working on autonomous vehicles, including Waymo, Cruise, Volvo, Mercedes, Ford, and GM, are using lidar as an essential technology for enabling automated vehicles to perceive their environments. By relying on cameras, Teslaâ€™s Autopilot is prone to potential failures caused by challenging lighting conditions, such as glare and darkness. In its announcement of the Tesla investigation, the NHTSA reported that most incidents occurred after dark where there were flashing emergency vehicle lights, flares or other lights. Lidar, in contrast, can operate under any lighting conditions and can â€œseeâ€ in the dark.
+
+Fallout from the investigation The preliminary evaluation will determine whether the NHTSA should proceed with an engineering analysis, which could lead to a recall. The investigation could eventually lead to changes in future Tesla Autopilot and its other self-driving system. The investigation might also indirectly have a broader impact on the deployment of future autonomous vehicles; in particular, the investigation may reinforce the need for lidar. Although reports in May 2021 indicated that Tesla was testing lidar sensors, itâ€™s not clear whether the company was quietly considering the technology or using it to validate their existing sensor systems. Tesla CEO Elon Musk called lidar â€œa foolâ€™s errandâ€ in 2019, saying itâ€™s expensive and unnecessary. However, just as Tesla is revisiting systems that monitor driver attention, the NHTSA investigation could push the company to consider adding lidar or similar technologies to future vehicles.
+";"Waymo";"018.txt-Waymo"
+"019.txt";"Earlier this year, Waymo was trying to produce 5 to 10 vehicles a day at the factory, says one former employee. The company disputes this claim.
+
+Changes at the top
+
+After years of publicly touting the wonders of self-driving, Waymo personnel started talking in recent years about managing peopleâ€™s expectations of what their cars could do, and when. Several people who worked at Waymo describe parent company Alphabet as extremely cautious, particularly after an Uber self-driving test vehicle struck and killed a pedestrian in Arizona in 2018.
+
+For example, Waymoâ€™s ad hoc board shot down a splashy marketing pitch from Krafcik, according to three people familiar with the decision. In 2018, he wanted to stage a multicity demonstration of the companyâ€™s technology, with pop-up marketing installations showcasing what Waymo could do. Tesla Inc. had carried out something similar with its early models. But the companyâ€™s board â€” which consisted of Googleâ€™s founders Larry Page and Sergey Brin, along with Alphabet honchos and a few outside investors â€” worried about repeating the failures of Google Glass, the flopped augmented-reality spectacles, by introducing a product before it was ready. A Waymo spokesperson said that the company simply went in a different direction.
+
+Krafcik left the company in April. The new co-CEOs are Tekedra Mawakana, formerly Waymoâ€™s chief operating officer, and Dmitri Dolgov, who had been its chief technology officer. The pair met with backers and partners this spring as Waymo closed its financing round. According to one investor, the new chiefs were upbeat in a recent meeting, saying that with the pandemic fading the company was gearing up to make â€œhuge headwayâ€ on its goals.
+";"Waymo";"019.txt-Waymo"
+"020.txt";"Waymo's autonomous vehicles have clocked 20 million miles on public roads
+Although other companies that are working on autonomous driving might get more attention, Waymo is still hard at work on the technology. The Alphabet subsidiary just provided an update on its Waymo Driver AI as well as more details about its self-driving tests.
+
+An array of LiDAR, radar and cameras can track what's going on all around the vehicle in a variety of weather conditions, Waymo says. The system generates a 3D view of the vehicle's surroundings that humans would be able to understand. Along with other cars, the system can render pedestrians in addition to cyclists who narrowly pass by the vehicle.
+
+The company says Waymo Driver can detect small objects and movements at a distance, such as a truck door in the middle of traffic and someone jumping out to deliver a package. It claims the AI can recognize steam emanating from utility holes and drive the vehicle through it, and understand the difference between a stop sign and its reflection.
+
+Waymo has been testing its vehicles in San Francisco since 2009 and it ramped up its efforts in the city earlier this year. Its vehicles now clock north of 100,000 miles on SF's roads every week. Between narrow streets, drastic changes in elevation and intersections right at the top of hills, San Francisco isn't an easy city to drive in, which makes it an effective testing ground for AVs.
+
+The company's vehicles have autonomously driven more than 20 million miles on public roads as well as 20 billion miles in simulations. That's a significant bank of data to draw from. Waymo says the AI can recognize and adapt to local driving behaviors, such as what lane to turn in at each intersection. According to the company, Waymo Driver can also mimic other vehicles' behavior, such as in SF, where people tend to drive a little slower while going up steep slopes.
+
+Fully autonomous driving is likely several years away from going mainstream, but it seems Waymo is making significant strides toward that goal. Hopefully, Waymo Driver is getting more comfortable around safety cones .";"Waymo";"020.txt-Waymo"
